@@ -1,0 +1,165 @@
+baseURL = "/"
+languageCode = "de-de"
+title = "Kytaara"
+
+ignoreErrors = ["error-remote-getjson"]
+
+paginate = "9"
+copyright = 'A template by [Heksagon](https://www.heksagon.net "Your most friendly developer"); edited by Sabrina Frank'
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[minify]
+disableCSS = false
+disableHTML = false
+disableJS = false
+disableJSON = false
+disableSVG = false
+disableXML = false
+minifyOutput = true
+
+[minify.tdewolff.html]
+keepWhitespace = false
+
+[params]
+env = "production"
+author = "Kytaara"
+description = "Stoner & Doom Metal made in Nuernberg"
+math = false
+images = [ "/uploads/og.png" ]
+comments = true
+mainSections = [ "events" ]
+ShowShareButtons = true
+ShowCodeCopyButtons = true
+ShowRelated = true
+CookieNotice = "Wir verwenden Cookies, um deine Erfahrung auf unserer Website zu verbessern und relevante Werbung zu zeigen."
+CookieLink = "/legal/privacy/#cookies-and-web-beacons"
+CookieButton = "Cookies Policy"
+disableAnchoredHeadings = false
+ShowReadingTime = true
+ShowBreadCrumbs = true
+
+[params.analytics.google]
+
+[params.analytics.yandex]
+
+[params.analytics.bing]
+
+  [params.label]
+  title = "Kytaara"
+  text = "NBG Doom"
+  lightNavIcon = "/uploads/sun.svg"
+  darkNavIcon = "/uploads/logo.svg"
+  iconHeight = "35"
+  iconWIdth = "35"
+
+  [params.assets]
+  disableFingerprinting = false
+  favicon = "/favicon_io/favicon.ico"
+  favicon16x16 = "/favicon_io/favicon-16x16.png"
+  favicon32x32 = "/favicon_io/favicon-32x32.png"
+  apple_touch_icon = "/favicon_io/apple-touch-icon.png"
+  safari_pinned_tab = "/favicon_io/android-chrome-192x192"
+
+  [params.homepage]
+  disableHeroSection = false
+  heroTitle = "Kytaara"
+  heroDescription = "Stoner & Doom Metal made in Nuernberg"
+  heroCTAPrimaryText = "Erlebe uns live"
+  heroCTAPrimaryUrl = "/events/"
+  heroCTASecondaryText = "Wer wir sind"
+  heroCTASecondaryUrl = "/about/"
+  heroBackgroundImage = "/uploads/bg-head.png"
+
+  disableAboutSection = false
+  aboutTitle = "Bio"
+  aboutDescription = "Stoner & Doom Metal made in Nuernberg"
+  aboutImgUrl = "/uploads/band-private.png"
+  aboutContent = "Wir sind Kytaara. Fünf Leute machen diese Band aus: Unsere Sänger und Gitarristen Phil und Marc, an der Sologitrarre Markus, unser Bassist Mo und Tessi an den Drums. Bissle was zum Namen der Band. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+
+  disableBlogSection = false
+  blogTitle = "Events"
+  blogDescription = "Hier werden alle kommenden Auftritte gezeigt."
+  seeMoreText = "Vergangene Auftritte"
+
+  disablePortfolioSection = false
+  portfolioTitle = "Musik"
+  portfolioDescription = "Hier werden bald einige unserer Songs zu finden sein. Stay tuned."
+
+    #[[params.homepage.portfolio]]
+    #imageUrl = "/uploads/portfolio-1.webp"
+    #description = "Erste Single"
+
+    #[[params.homepage.portfolio]]
+    #imageUrl = "/uploads/portfolio-2.webp"
+    #description = "Portfolio Two."
+
+    #[[params.homepage.portfolio]]
+    #imageUrl = "/uploads/portfolio-3.webp"
+    #description = "Portfolio Three."
+
+  [params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = "0"
+  distance = "1000"
+  threshold = "0.4"
+  minMatchCharLength = "0"
+  keys = [ "title", "permalink", "summary", "content" ]
+
+[[params.plugins.css]]
+link = "plugins/css/pico.min.css"
+
+[[params.plugins.js]]
+link = "plugins/js/feather.min.js"
+
+#[[menus.main]]
+#name = "Blog"
+#title = "Blog"
+#pre = "pen-tool"
+#url = "/blog"
+#weight = "20"
+
+[[menus.main]]
+name = "About"
+title = "Bio"
+url = "/bio"
+weight = "20"
+
+[[menus.main]]
+name = "Blog"
+title = "Events"
+url = "/events"
+weight = "30"
+
+[[menus.main]]
+name = "Contact"
+title = "Kontakt"
+url = "/kontakt"
+weight = "40"
+
+[[menus.main]]
+name = "Search"
+title = "Search"
+pre = "search"
+url = "/search"
+weight = "50"
+
+
+[[menus.search]]
+name = "Musik"
+title = "Musik"
+url = "/musik"
+weight = "10"
+
+[[menus.search]]
+name = "Auftritte"
+title = "Auftritte"
+url = "/events"
+weight = "20"

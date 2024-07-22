@@ -1,0 +1,34 @@
+title: 'Auftritte'
+  experience_list:
+    - name: Projekt 31
+      company: An den Rampen 31, Nürnberg
+      duration: '01.08.2024 | 20:00'
+      content: One Day in Fukushima & Kytaara
+
+    - name: Kunstverein des SKV
+      company: Z-Bau, Nürnberg
+      duration: '17.05.2024 | 20:00'
+      content: Kytaara, Our Silent Voice, Coexist
+
+
+title: 'Über Kytaara'
+  content: Metal made in Nürnberg.
+
+  - 'Stoner Metal'
+    - 'Doom Metal'
+    - 'Atmospheric Metal' 
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/static/images/favicon_io/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/static/images/favicon_io/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/static/images/favicon_io/favicon-16x16.png">
+  <link rel="manifest" href="/static/images/favicon_io/site.webmanifest">
+
+copyright = "Copyright Kytaara(Inhalt), Burton Guster(Theme) & Sabrina Frank(Edit)&copy;"
+# Meta data
+description = "Kytaara - NBG Doom"
+author = "Kytaara"
+
+
+[[params.social]]
+icon = "fab fa-instagram"
+link = "https://www.instagram.com/kytaara_doom/"
