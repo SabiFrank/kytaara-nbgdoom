@@ -4,7 +4,7 @@ title = "Kytaara"
 
 ignoreErrors = ["error-remote-getjson"]
 
-paginate = "9"
+paginate = "3"
 copyright = 'A template by [Heksagon](https://www.heksagon.net "Your most friendly developer"); edited by Sabrina Frank'
 enableRobotsTXT = true
 buildDrafts = false
@@ -29,17 +29,17 @@ keepWhitespace = false
 
 [params]
 env = "production"
-author = "Kytaara"
+author = ""
 description = "Stoner & Doom Metal made in Nuernberg"
 math = false
 images = [ "/uploads/og.png" ]
 comments = false
-mainSections = [ "events" ]
+mainSections = [ "live" ]
 ShowShareButtons = false
 ShowCodeCopyButtons = false
 ShowRelated = false
 CookieNotice = "Wir verwenden Cookies, um deine Erfahrung auf unserer Website zu verbessern und relevante Werbung zu zeigen."
-CookieLink = "/legal/privacy/#cookies-and-web-beacons"
+CookieLink = "/legal/datenschutz/#Cookies"
 CookieButton = "Cookies Policy"
 disableAnchoredHeadings = false
 ShowReadingTime = false
@@ -72,20 +72,20 @@ ShowBreadCrumbs = true
   heroTitle = "Kytaara"
   heroDescription = "Stoner & Doom Metal made in Nuernberg"
   heroCTAPrimaryText = "Erlebe uns live"
-  heroCTAPrimaryUrl = "/events/"
+  heroCTAPrimaryUrl = "/live/"
   heroCTASecondaryText = "Wer wir sind"
   heroCTASecondaryUrl = "/about/"
   heroBackgroundImage = "/uploads/bg-head.png"
 
   disableAboutSection = false
   aboutTitle = "Bio"
-  aboutDescription = "Stoner & Doom Metal made in Nuernberg"
+  aboutDescription = "Metal made in Nürnberg."
   aboutImgUrl = "/uploads/band-private.png"
   aboutContent = "Wir sind eine junge Band aus Nürnberg, bestehend aus fünf Musiker*innen, die Einflüsse aus den Genres Stoner, Doom, Sludge, Core bis hin zum Blackmetal vereinen. Das Resultat ist eine stets breite Soundwand aus treibenden Riffs und spährischen Klangteppichen. Markenzeichen sind die vielen vornehmlich Orange und Sunn O))) Amps sowie drei fein aufeinander abgestimmte Gitarren, die diesen vollen Klangkörper möglich machen. Unentbehrliches Zentrum der Band sind die Bandbohnen, ohne die keine Probe stattfinden kann."
   disableBlogSection = false
-  blogTitle = "Events"
-  blogDescription = "Hier werden alle kommenden Auftritte gezeigt."
-  seeMoreText = "Vergangene Auftritte"
+  blogTitle = "Live"
+  blogDescription = "Live-Auftritte von Kytaara."
+  seeMoreText = "Alle Auftritte" #ToDo: Aktivieren, wenn mehr als 6
 
   disablePortfolioSection = false
   portfolioTitle = "Musik"
@@ -126,9 +126,9 @@ link = "plugins/js/feather.min.js"
 #weight = "20"
 
 [[menus.main]]
-name = "blog"
-title = "Events"
-url = "/events"
+name = "Live"
+title = "Live"
+url = "/live"
 weight = "10"
 
 [[menus.main]]
@@ -171,5 +171,5 @@ weight = "40"
 #[[menus.search]]
 #name = "Auftritte"
 #title = "Auftritte"
-#url = "/events"
+#url = "/live"
 #weight = "20"

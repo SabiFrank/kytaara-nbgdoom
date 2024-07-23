@@ -1,6 +1,6 @@
 ---
-title: Blog
-image: "/uploads/portfolio-2.webp"
-description: My blog's description here
+title: Auftritte
+image: "/uploads/live.png"
+description: Infos zu allen Live-Auftritten
 
 ---

@@ -10,6 +10,13 @@ searchHidden: true
 ShowBreadCrumbs: false
 ---
 
+Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
+<!--more-->
+---
+
+
+
+---
 Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
 
 1. Exierant elisi ambit vivere dedere
@@ -48,3 +55,8 @@ Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit 
 </style>
 ```
 
+## YouTube Privacy Enhanced Shortcode
+
+{{< youtube ZJthWmvUzzc >}}
+
+<br>
