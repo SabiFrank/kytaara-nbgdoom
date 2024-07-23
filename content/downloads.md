@@ -10,6 +10,7 @@ showToc: false
 ShowBreadCrumbs: false
 ---
 
+&nbsp;
 ## Logo
 
 Download {{< download kytaara-logo-black.png >}}  
