@@ -86,7 +86,7 @@ Sabrina Frank
 Carl-Legien-Straße 18  
 90473 Nürnberg  
 Telefon: +49 (0) 178 2839126  
-E-Mail: frank.sabrina.95@gmail.com  
+E-Mail: kytaara.doom@gmail.com  
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über
 die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.  

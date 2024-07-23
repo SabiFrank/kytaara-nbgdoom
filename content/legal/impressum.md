@@ -13,8 +13,8 @@ Carl-Legien-Straße 18
 90473 Nürnberg
 
 **Kontakt**  
-Telefon: +49 (0) 178 2839126  
-E-Mail: frank.sabrina.95@gmail.com
+Telefon: +49 (0) 1520 3311192  
+E-Mail: kytaara.doom@gmail.com
 
 **Quelle:**  
 [eRecht24](https://www.e-recht24.de)

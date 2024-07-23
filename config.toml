@@ -32,7 +32,7 @@ env = "production"
 author = ""
 description = "Stoner & Doom Metal made in Nuernberg"
 math = false
-images = [ "/uploads/og.png" ]
+images = [ "/uploads/og.jpg" ]
 comments = false
 mainSections = [ "live" ]
 ShowShareButtons = false
@@ -52,12 +52,12 @@ ShowBreadCrumbs = true
 #[params.analytics.bing]
 
   [params.label]
-  title = "&nbsp&nbspKytaara"
-  text = "NBG Doom"
-  lightNavIcon = "/uploads/logo.svg"
-  darkNavIcon = "/uploads/logo.svg"
-  iconHeight = "35"
-  iconWIdth = "35"
+  title = "Kytaara"
+  #text = "NBG Doom"
+  #lightNavIcon = "/uploads/logo.png"
+  darkNavIcon = "/uploads/logo.png"
+  iconHeight = "100"
+  iconWIdth = "100"
 
   [params.assets]
   disableFingerprinting = false
@@ -84,23 +84,23 @@ ShowBreadCrumbs = true
   aboutContent = "Wir sind eine junge Band aus Nürnberg, bestehend aus fünf Musiker*innen, die Einflüsse aus den Genres Stoner, Doom, Sludge, Core bis hin zum Blackmetal vereinen. Das Resultat ist eine stets breite Soundwand aus treibenden Riffs und spährischen Klangteppichen. Markenzeichen sind die vielen vornehmlich Orange und Sunn O))) Amps sowie drei fein aufeinander abgestimmte Gitarren, die diesen vollen Klangkörper möglich machen. Unentbehrliches Zentrum der Band sind die Bandbohnen, ohne die keine Probe stattfinden kann."
   disableBlogSection = false
   blogTitle = "Live"
-  blogDescription = "Live-Auftritte von Kytaara."
+  blogDescription = "Kommende Auftritte von Kytaara."
   seeMoreText = "Alle Auftritte" #ToDo: Aktivieren, wenn mehr als 6
 
   disablePortfolioSection = false
   portfolioTitle = "Musik"
   portfolioDescription = "Hier werden bald unsere Songs zu finden sein. Stay tuned."
 
-    #[[params.homepage.portfolio]]
-    #imageUrl = "/uploads/portfolio-1.webp"
-    #description = "Erste Single"
-
     [[params.homepage.portfolio]]
     imageUrl = "/uploads/base-shoot.jpg"
-    description = ""
+    #description = "Erste Single"
 
     #[[params.homepage.portfolio]]
-    #imageUrl = "/uploads/portfolio-3.webp"
+    #imageUrl = "/uploads/base-shoot.jpg"
+    #description = ""
+
+    #[[params.homepage.portfolio]]
+    #imageUrl = "/uploads/base-shoot.jpg"
     #description = "Portfolio Three."
 
   [params.fuseOpts]
@@ -144,23 +144,29 @@ weight = "20"
 #weight = "30"
 
 [[menus.main]]
+name = "merch"
+title = "Merch"
+url = "/merch"
+weight = "30"
+
+[[menus.main]]
 name = "contact"
 title = "Kontakt"
 url = "/kontakt"
-weight = "30"
+weight = "40"
 
 [[menus.main]]
 name = "downloads"
 title = "Downloads"
 url = "/downloads"
-weight = "40"
+weight = "50"
 
-#[[menus.main]]
-#name = "Search"
-#title = "Search"
-#pre = "search"
-#url = "/search"
-#weight = "50"
+[[menus.main]]
+name = "Search"
+title = "Search"
+pre = "search"
+url = "/search"
+weight = "60"
 
 #[[menus.search]]
 #name = "Musik"
