@@ -45,16 +45,16 @@ disableAnchoredHeadings = false
 ShowReadingTime = true
 ShowBreadCrumbs = true
 
-[params.analytics.google]
+#[params.analytics.google]
 
-[params.analytics.yandex]
+#[params.analytics.yandex]
 
-[params.analytics.bing]
+#[params.analytics.bing]
 
   [params.label]
-  title = "Kytaara"
+  title = "&nbsp&nbspKytaara"
   text = "NBG Doom"
-  lightNavIcon = "/uploads/sun.svg"
+  lightNavIcon = "/uploads/logo.svg"
   darkNavIcon = "/uploads/logo.svg"
   iconHeight = "35"
   iconWIdth = "35"
@@ -90,7 +90,7 @@ ShowBreadCrumbs = true
 
   disablePortfolioSection = false
   portfolioTitle = "Musik"
-  portfolioDescription = "Hier werden bald einige unserer Songs zu finden sein. Stay tuned."
+  portfolioDescription = "Hier werden bald unsere Songs zu finden sein. Stay tuned."
 
     #[[params.homepage.portfolio]]
     #imageUrl = "/uploads/portfolio-1.webp"
@@ -127,39 +127,50 @@ link = "plugins/js/feather.min.js"
 #weight = "20"
 
 [[menus.main]]
-name = "About"
-title = "Bio"
-url = "/bio"
-weight = "20"
-
-[[menus.main]]
 name = "Blog"
 title = "Events"
 url = "/events"
-weight = "30"
+weight = "10"
+
+[[menus.main]]
+name = "About"
+title = "About"
+url = "/about"
+weight = "20"
+
+#[[menus.main]]
+#name = "Musik"
+#title = "Musik"
+#url = "/music"
+#weight = "30"
 
 [[menus.main]]
 name = "Contact"
 title = "Kontakt"
 url = "/kontakt"
-weight = "40"
+weight = "30"
 
 [[menus.main]]
-name = "Search"
-title = "Search"
-pre = "search"
-url = "/search"
-weight = "50"
+name = "Downloads"
+title = "Downloads"
+url = "/downloads"
+weight = "40"
 
+#[[menus.main]]
+#name = "Search"
+#title = "Search"
+#pre = "search"
+#url = "/search"
+#weight = "50"
 
-[[menus.search]]
-name = "Musik"
-title = "Musik"
-url = "/musik"
-weight = "10"
+#[[menus.search]]
+#name = "Musik"
+#title = "Musik"
+#url = "/musik"
+#weight = "10"
 
-[[menus.search]]
-name = "Auftritte"
-title = "Auftritte"
-url = "/events"
-weight = "20"
+#[[menus.search]]
+#name = "Auftritte"
+#title = "Auftritte"
+#url = "/events"
+#weight = "20"
