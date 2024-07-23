@@ -2,15 +2,15 @@
 <div class="container">
   <hgroup>
     {{ partial "breadcrumbs.html" . }}
-    <h1>{{ .Title }}</h1>
-    {{- partial "post_meta.html" . -}}
+    <h1>{{ .Title }}</h1> 
+    <!-- {{- partial "post_meta.html" . -}} -->
     <p>{{ .Description }}</p>
   </hgroup>
   {{- if .Params.tags }} {{- range ($.GetTerms "tags") }}
   <a href="{{ .Permalink }}">
     <kbd>{{ .LinkTitle }}</kbd>
   </a>
-  {{- end }} {{- end }}
+  {{- end }} {{- end }} 
 
   <div class="grid grid-main">
     <div>
@@ -32,13 +32,12 @@
       >{{end}}
     
       <div class="post">
-        
-        {{ partial "social-share.html" . }} {{- if not (.Param
-        "disableAnchoredHeadings") }} {{- partial "anchored_headings.html"
-        .Content -}} {{- else }}{{ .Content }}{{ end }}
+        <!-- {{ partial "social-share.html" . }}  -->
+        {{- if not (.Param "disableAnchoredHeadings") }} 
+        {{- partial "anchored_headings.html" .Content -}} {{- else }}{{ .Content }}{{ end }}
       </div>
 
-      {{ partial "social-share.html" . }}
+      <!-- {{ partial "social-share.html" . }} -->
     </div>
     
     {{- if (.Param "ShowRelated") }} 

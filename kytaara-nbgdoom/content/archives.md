@@ -1,8 +1,8 @@
 ---
-title: "Archiv" # in any language you want
+title: "Archives" # in any language you want
 layout: "archives" # is necessary
 # url: "/archive"
-description: "Das ist die Archivseite für vergangene Auftritte."
+description: "This is the archive page"
 summary: "archives"
 ---
 

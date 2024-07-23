@@ -1,3 +1,8 @@
+Bio:
+Wir sind Kytaara. Fünf Leute machen diese Band aus: Unsere Sänger und Gitarristen Phil und Marc, an der Sologitrarre Markus, unser Sänger und Bassist Mo und Tessi an den Drums. 
+Ursprung Name der Band.
+
+
 title: 'Auftritte'
   experience_list:
     - name: Projekt 31
@@ -32,3 +37,4 @@ author = "Kytaara"
 [[params.social]]
 icon = "fab fa-instagram"
 link = "https://www.instagram.com/kytaara_doom/"
+https://www.facebook.com/KytaaraBand/

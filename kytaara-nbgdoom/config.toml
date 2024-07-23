@@ -33,28 +33,28 @@ author = "Kytaara"
 description = "Stoner & Doom Metal made in Nuernberg"
 math = false
 images = [ "/uploads/og.png" ]
-comments = true
+comments = false
 mainSections = [ "events" ]
-ShowShareButtons = true
-ShowCodeCopyButtons = true
-ShowRelated = true
+ShowShareButtons = false
+ShowCodeCopyButtons = false
+ShowRelated = false
 CookieNotice = "Wir verwenden Cookies, um deine Erfahrung auf unserer Website zu verbessern und relevante Werbung zu zeigen."
 CookieLink = "/legal/privacy/#cookies-and-web-beacons"
 CookieButton = "Cookies Policy"
 disableAnchoredHeadings = false
-ShowReadingTime = true
+ShowReadingTime = false
 ShowBreadCrumbs = true
 
-[params.analytics.google]
+#[params.analytics.google]
 
-[params.analytics.yandex]
+#[params.analytics.yandex]
 
-[params.analytics.bing]
+#[params.analytics.bing]
 
   [params.label]
-  title = "Kytaara"
+  title = "&nbsp&nbspKytaara"
   text = "NBG Doom"
-  lightNavIcon = "/uploads/sun.svg"
+  lightNavIcon = "/uploads/logo.svg"
   darkNavIcon = "/uploads/logo.svg"
   iconHeight = "35"
   iconWIdth = "35"
@@ -81,8 +81,7 @@ ShowBreadCrumbs = true
   aboutTitle = "Bio"
   aboutDescription = "Stoner & Doom Metal made in Nuernberg"
   aboutImgUrl = "/uploads/band-private.png"
-  aboutContent = "Wir sind Kytaara. Fünf Leute machen diese Band aus: Unsere Sänger und Gitarristen Phil und Marc, an der Sologitrarre Markus, unser Bassist Mo und Tessi an den Drums. Bissle was zum Namen der Band. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-
+  aboutContent = "Wir sind eine junge Band aus Nürnberg, bestehend aus fünf Musiker*innen, die Einflüsse aus den Genres Stoner, Doom, Sludge, Core bis hin zum Blackmetal vereinen. Das Resultat ist eine stets breite Soundwand aus treibenden Riffs und spährischen Klangteppichen. Markenzeichen sind die vielen vornehmlich Orange und Sunn O))) Amps sowie drei fein aufeinander abgestimmte Gitarren, die diesen vollen Klangkörper möglich machen. Unentbehrliches Zentrum der Band sind die Bandbohnen, ohne die keine Probe stattfinden kann."
   disableBlogSection = false
   blogTitle = "Events"
   blogDescription = "Hier werden alle kommenden Auftritte gezeigt."
@@ -90,7 +89,7 @@ ShowBreadCrumbs = true
 
   disablePortfolioSection = false
   portfolioTitle = "Musik"
-  portfolioDescription = "Hier werden bald einige unserer Songs zu finden sein. Stay tuned."
+  portfolioDescription = "Hier werden bald unsere Songs zu finden sein. Stay tuned."
 
     #[[params.homepage.portfolio]]
     #imageUrl = "/uploads/portfolio-1.webp"
@@ -127,39 +126,50 @@ link = "plugins/js/feather.min.js"
 #weight = "20"
 
 [[menus.main]]
-name = "About"
-title = "Bio"
-url = "/bio"
-weight = "20"
-
-[[menus.main]]
-name = "Blog"
+name = "blog"
 title = "Events"
 url = "/events"
+weight = "10"
+
+[[menus.main]]
+name = "about"
+title = "Über uns"
+url = "/about"
+weight = "20"
+
+#[[menus.main]]
+#name = "musik"
+#title = "Musik"
+#url = "/music"
+#weight = "30"
+
+[[menus.main]]
+name = "contact"
+title = "Kontakt"
+url = "/kontakt"
 weight = "30"
 
 [[menus.main]]
-name = "Contact"
-title = "Kontakt"
-url = "/kontakt"
+name = "downloads"
+title = "Downloads"
+url = "/downloads"
 weight = "40"
 
-[[menus.main]]
-name = "Search"
-title = "Search"
-pre = "search"
-url = "/search"
-weight = "50"
+#[[menus.main]]
+#name = "Search"
+#title = "Search"
+#pre = "search"
+#url = "/search"
+#weight = "50"
 
+#[[menus.search]]
+#name = "Musik"
+#title = "Musik"
+#url = "/musik"
+#weight = "10"
 
-[[menus.search]]
-name = "Musik"
-title = "Musik"
-url = "/musik"
-weight = "10"
-
-[[menus.search]]
-name = "Auftritte"
-title = "Auftritte"
-url = "/events"
-weight = "20"
+#[[menus.search]]
+#name = "Auftritte"
+#title = "Auftritte"
+#url = "/events"
+#weight = "20"
