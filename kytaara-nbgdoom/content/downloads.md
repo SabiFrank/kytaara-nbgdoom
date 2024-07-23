@@ -11,14 +11,15 @@ ShowBreadCrumbs: false
 ---
 
 ## Logo
-[Download Kytaara Logo Black als Vektorgrafik](/static/downloadables/logo.svg)  
-[Download Kytaara Logo White als Vektorgrafik](/static/downloadables/logo.svg)   
-[Download Kytaara Logo Black als PNG](./static/downloadables/Kytaara_Logo_Black.png)  
-[Download Kytaara Logo White als PNG](./static/downloadables/Kytaara_Logo_White.png)  
+[Download Kytaara Logo Black als PNG](../static/downloadables/Kytaara_Logo_Black.png)  
+[Download Kytaara Logo White als PNG](/kytaara-nbgdoom/static/downloadables/Kytaara_Logo_White.png)  
+
+Download {{< download Kytaara_Logo_Black >}}
+
 
 
 ## Band
-[Download Bandbild als PNG](./static/downloadables/bg-header.png)  
+[Download Bandbild als PNG](../static/downloadables/bg-header.png)  
 
 
 ## Tech-Rider
