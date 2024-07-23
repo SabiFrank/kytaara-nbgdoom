@@ -4,13 +4,13 @@
     {{- $label_text := (.Site.Params.label.text | default .Site.Title) }}
     <li>
       <a class="logo" href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + h)">
-        <img
+        <!-- <img
           id="lightMainIcon"
           src="{{.Site.Params.label.lightNavIcon | relURL}}"
           alt="{{ $label_text }}"
           width="{{.Site.Params.label.iconHeight | safeHTML }}"
           height="{{.Site.Params.label.iconWidth | safeHTML }}"
-        ></img>
+        ></img> --> <!-- Switch Dark Light Theme ausgeschaltet -->
         <img
           id="darkMainIcon"
           src="{{.Site.Params.label.darkNavIcon | relURL}}"
@@ -23,13 +23,13 @@
         </h3>
       </a>
     </li>
-    <li class="toggle-container">
+    <!-- <li class="toggle-container">
       <input type="checkbox" id="switch" />
       <label for="switch">
         <i id="darkIcon" data-feather="moon"></i>
         <i id="lightIcon" data-feather="sun"></i>
       </label>
-    </li>
+    </li> --> <!-- Switch Dark Light Theme ausgeschaltet -->
   </ul>
   {{- $currentPage := . }}
   <ul class="desktop-navigation">

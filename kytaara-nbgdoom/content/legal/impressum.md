@@ -7,14 +7,14 @@ url: /legal/impressum
 #description: Dies ist das Impressum für Kytaara.de
 ---
 
-## Kytaara - NBG Doom  
-
+**Kytaara - NBG Doom**  
 Verwalter: Sabrina Frank  
 Carl-Legien-Straße 18  
 90473 Nürnberg
 
-### Kontakt
+**Kontakt**  
 Telefon: +49 (0) 178 2839126  
 E-Mail: frank.sabrina.95@gmail.com
 
-Quelle: [eRecht24](https://www.e-recht24.de)
+**Quelle:**  
+[eRecht24](https://www.e-recht24.de)

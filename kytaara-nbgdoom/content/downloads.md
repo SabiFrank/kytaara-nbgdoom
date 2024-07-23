@@ -1,12 +1,13 @@
 ---
 title: Downloads
-layout: baseof
+layout: single
 searchHidden: true
 description: Hier sind Logos, Bilder und Tech-Rider für den Download zu finden.
 disableShare: true
 ShowReadingTime: false
 ShowAuthor: false
 showToc: false
+ShowBreadCrumbs: false
 ---
 
 ## Logo

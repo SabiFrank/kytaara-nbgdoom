@@ -2,9 +2,8 @@
 title: "Danke" # in any language you want
 layout: "thanks" # is necessary
 searchHidden: true
-# url: "/archive"
 description: "Danke für deine Nachricht."
-summary: "thanks"
+summary: "Danke!"
 disableShare: true
 ShowReadingTime: false
 showToc: false
