@@ -1,18 +1,29 @@
 ---
 title: Downloads
-date: 2024-07-23T11:40:00+01:00
-layout: single
+layout: baseof
 searchHidden: true
-#url: /downloads
-description: Hier können Logo, Bilder und XY heruntergeladen werden. #ToDo
+description: Hier sind Logos, Bilder und Tech-Rider für den Download zu finden.
+disableShare: true
+ShowReadingTime: false
+ShowAuthor: false
+showToc: false
 ---
 
 ## Logo
 
-[Download Kytaara Logo als Vektorgrafik](/static/downloads/logo.svg) 
-[Download Kytaara Logo als PNG](/static/downloads/logo.png)
-[Download Amptower Logo als Vektorgrafik](/static/downloads/amptower.svg)
-[Download Amptower Logo als PNG](/static/downloads/amptower.png)
+[Download Kytaara Logo Black als Vektorgrafik](/static/downloads/logo.svg)  
+[Download Kytaara Logo Black als Vektorgrafik](/static/downloads/logo.svg)   
+[Download Kytaara Logo Black als PNG](../static/downloads/Kytaara_Logo_Black.png)  
+[Download Kytaara Logo Black als PNG](../static/downloads/Kytaara_Logo_White.png)  
 
-## Stageirgendwas
+
+## Band
+
+[Download Bandbild als PNG](/static/downloads/amptower.svg) 
+
+
+## Tech-Rider
+
+[Download Tech-Rider als PDF](/static/downloads/techrider.pdf)
+
 

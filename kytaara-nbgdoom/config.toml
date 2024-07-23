@@ -33,16 +33,16 @@ author = "Kytaara"
 description = "Stoner & Doom Metal made in Nuernberg"
 math = false
 images = [ "/uploads/og.png" ]
-comments = true
+comments = false
 mainSections = [ "events" ]
-ShowShareButtons = true
-ShowCodeCopyButtons = true
-ShowRelated = true
+ShowShareButtons = false
+ShowCodeCopyButtons = false
+ShowRelated = false
 CookieNotice = "Wir verwenden Cookies, um deine Erfahrung auf unserer Website zu verbessern und relevante Werbung zu zeigen."
 CookieLink = "/legal/privacy/#cookies-and-web-beacons"
 CookieButton = "Cookies Policy"
 disableAnchoredHeadings = false
-ShowReadingTime = true
+ShowReadingTime = false
 ShowBreadCrumbs = true
 
 #[params.analytics.google]
@@ -81,8 +81,7 @@ ShowBreadCrumbs = true
   aboutTitle = "Bio"
   aboutDescription = "Stoner & Doom Metal made in Nuernberg"
   aboutImgUrl = "/uploads/band-private.png"
-  aboutContent = "Wir sind Kytaara. Fünf Leute machen diese Band aus: Unsere Sänger und Gitarristen Phil und Marc, an der Sologitrarre Markus, unser Bassist Mo und Tessi an den Drums. Bissle was zum Namen der Band. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-
+  aboutContent = "Wir sind eine junge Band aus Nürnberg, bestehend aus fünf Musiker*innen, die Einflüsse aus den Genres Stoner, Doom, Sludge, Core bis hin zum Blackmetal vereinen. Das Resultat ist eine stets breite Soundwand aus treibenden Riffs und einem spährischen Klangteppich."
   disableBlogSection = false
   blogTitle = "Events"
   blogDescription = "Hier werden alle kommenden Auftritte gezeigt."

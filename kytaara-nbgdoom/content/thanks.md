@@ -5,6 +5,9 @@ searchHidden: true
 # url: "/archive"
 description: "Danke für deine Nachricht."
 summary: "thanks"
+disableShare: true
+ShowReadingTime: false
+showToc: false
 ---
 
 {{< rawhtml >}}
