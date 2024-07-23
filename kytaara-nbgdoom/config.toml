@@ -127,31 +127,31 @@ link = "plugins/js/feather.min.js"
 #weight = "20"
 
 [[menus.main]]
-name = "Blog"
+name = "blog"
 title = "Events"
 url = "/events"
 weight = "10"
 
 [[menus.main]]
-name = "About"
-title = "About"
+name = "about"
+title = "Über uns"
 url = "/about"
 weight = "20"
 
 #[[menus.main]]
-#name = "Musik"
+#name = "musik"
 #title = "Musik"
 #url = "/music"
 #weight = "30"
 
 [[menus.main]]
-name = "Contact"
+name = "contact"
 title = "Kontakt"
 url = "/kontakt"
 weight = "30"
 
 [[menus.main]]
-name = "Downloads"
+name = "downloads"
 title = "Downloads"
 url = "/downloads"
 weight = "40"
