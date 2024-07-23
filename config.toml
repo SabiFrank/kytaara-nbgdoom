@@ -95,9 +95,9 @@ ShowBreadCrumbs = true
     #imageUrl = "/uploads/portfolio-1.webp"
     #description = "Erste Single"
 
-    #[[params.homepage.portfolio]]
-    #imageUrl = "/uploads/portfolio-2.webp"
-    #description = "Portfolio Two."
+    [[params.homepage.portfolio]]
+    imageUrl = "/uploads/base-shoot.jpg"
+    description = ""
 
     #[[params.homepage.portfolio]]
     #imageUrl = "/uploads/portfolio-3.webp"
