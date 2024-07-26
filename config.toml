@@ -30,7 +30,7 @@ keepWhitespace = false
 [params]
 env = "production"
 author = ""
-description = "Stoner & Doom Metal made in Nuernberg"
+description = "Stoner & Doom Metal made in Nuremberg"
 math = false
 images = [ "/uploads/og.jpg" ]
 comments = false
