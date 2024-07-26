@@ -1,6 +1,6 @@
 ---
 title: "Projekt 31"
-date: "2024-08-01"
+date: "2024-07-26"
 description: "Grindcore trifft Doom Metal im Projekt 31"
 tags: ["auftritt", "nürnberg"]
 categories: ["live"]
