@@ -3,6 +3,7 @@
     <div class="container">
     <hgroup>
       {{ partial "breadcrumbs.html" . }}
+      <div style="margin-top:1em"></div>
       <h1>{{ .Title }}</h1>
       <h2>{{ .Description }}</h2>
     </hgroup>
@@ -25,7 +26,7 @@
       
         <label for="email">Email-Adresse</label>
         <input type="email" id="email" name="email" placeholder="Email-Adresse" required>
-        <!-- <small>Die werden wir natürlich nicht weitergeben.</small> -->
+        
 
         <label for="email">Deine Nachricht</label>
         <textarea name="message" id="message" cols="30" rows="5" style="resize: none;" required></textarea>

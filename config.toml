@@ -10,7 +10,7 @@ enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
-enableEmoji = true
+enableEmoji = false
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
@@ -36,12 +36,13 @@ images = [ "/uploads/og.jpg" ]
 comments = false
 mainSections = [ "live" ]
 ShowShareButtons = false
-ShowCodeCopyButtons = false
+ShowCodeCopyButtons = true
 ShowRelated = false
 CookieNotice = "Wir verwenden Cookies, um deine Erfahrung auf unserer Website zu verbessern und relevante Werbung zu zeigen."
 CookieLink = "/legal/datenschutz/#Cookies"
 CookieButton = "Cookies Policy"
 disableAnchoredHeadings = false
+contactFormAction = "https://fabform.io/f/{9OOTPWC}"
 ShowReadingTime = false
 ShowBreadCrumbs = true
 
@@ -78,13 +79,13 @@ ShowBreadCrumbs = true
   heroBackgroundImage = "/uploads/bg-head.png"
 
   disableAboutSection = false
-  aboutTitle = "Bio"
+  aboutTitle = "Die Band"
   aboutDescription = "Metal made in Nürnberg."
   aboutImgUrl = "/uploads/band-private.png"
-  aboutContent = "Wir sind eine junge Band aus Nürnberg, bestehend aus fünf Musiker*innen, die Einflüsse aus den Genres Stoner, Doom, Sludge, Core bis hin zum Blackmetal vereinen. Das Resultat ist eine stets breite Soundwand aus treibenden Riffs und spährischen Klangteppichen. Markenzeichen sind die vielen vornehmlich Orange und Sunn O))) Amps sowie drei fein aufeinander abgestimmte Gitarren, die diesen vollen Klangkörper möglich machen. Unentbehrliches Zentrum der Band sind die Bandbohnen, ohne die keine Probe stattfinden kann."
+  aboutContent = "Wir sind eine junge Band aus Nürnberg, bestehend aus fünf Musiker*innen, die Einflüsse aus den Genres Stoner, Doom, Sludge, Core bis hin zum Blackmetal vereinen. Das Resultat ist eine stets breite Soundwand aus treibenden Riffs und spährischen Klangteppichen. Markenzeichen ist der fein aufeinander abgestimmte Sound dreier Gitarren. Unentbehrliches Zentrum der Band sind aber die Bandbohnen, ohne die keine Probe stattfinden kann."
   disableBlogSection = false
   blogTitle = "Live"
-  blogDescription = "Kommende Auftritte von Kytaara."
+  blogDescription = "Kommende Auftritte von Kytaara"
   seeMoreText = "Alle Auftritte" #ToDo: Aktivieren, wenn mehr als 6
 
   disablePortfolioSection = false

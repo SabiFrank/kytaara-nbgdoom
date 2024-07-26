@@ -101,7 +101,7 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
     <h3>{{.Site.Params.homepage.portfolioDescription}}</h3>
   </hgroup>
   <div class="container">
-    <div class="grid grid-post">
+    <div class="grid grid-post" style="display: flex;   justify-content: center;"> <!-- ToDo: entferne style, wenn mehere da hinkommen -->
       {{ range .Site.Params.homepage.portfolio }}
       <a class="portfolio-post" href="{{.websiteUrl}}">
         <figure >

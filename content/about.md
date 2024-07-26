@@ -7,8 +7,6 @@ ShowBreadCrumbs: false
 ---
 
 &nbsp;
-## Kytaara - NBG Doom 
-
 ### Wie alles began
 
 Wir sind Kytaara. Fünf Leute machen diese Band aus: Unsere Sänger und Gitarristen Phil und Marc, an der Sologitrarre Markus, unser Sänger und Bassist Mo und Tessi an den Drums. 

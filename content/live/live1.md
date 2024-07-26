@@ -5,7 +5,8 @@ description: "Unser erster Auftritt im SKV des Kunstvereins Nürnberg"
 tags: ["auftritt", "nürnberg"]
 categories: ["live"]
 ShowToc: false
-TocOpen: false
+TocOpen: true
+ShowRelated: false
 ---
 
 &nbsp;
@@ -20,6 +21,6 @@ Kunstverein des SKV, Z-Bau, Nürnberg
 **Bands**  
 Kytaara, Our Silent Voice, Coexist  
 
-**Einblicke**  
+**Insta**  
 {{< instagram C7G-PUvtI-e >}}  
 {{< instagram C7H3FlXtU55 >}}
