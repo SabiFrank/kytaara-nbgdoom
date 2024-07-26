@@ -1,16 +1,16 @@
 ---
-title: "XY"
-date: "2024-08-23 20:00:00 +/-01:00"
-description: "Unser dritter Auftritt"
+title: "Upcoming"
+date: "2024-08-23"
+description: "Hier werden bald mehr Informationen zu finden sein"
 tags: ["auftritt", "nürnberg"]
 categories: ["live"]
-ShowToc: false
-TocOpen: false
+ShowRelated: false
+showToc: false
+ShowBreadCrumbs: false
 #{{< gallery-slider dir="/uploads/live3/" auto-slide="3000" width="80vw" height="500px" >}}
 ---
 
 &nbsp;
-
 
 **Location**  
 TBD 

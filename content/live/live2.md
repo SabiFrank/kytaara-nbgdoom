@@ -1,16 +1,16 @@
 ---
 title: "Projekt 31"
-date: "2024-08-01 20:00:00 +/-01:00"
-description: "Unser nächstes Event im Projekt 31"
+date: "2024-08-01"
+description: "Grindcore trifft Doom Metal im Projekt 31"
 tags: ["auftritt", "nürnberg"]
 categories: ["live"]
-ShowToc: false
-TocOpen: false
+ShowRelated: false
+showToc: false
+ShowBreadCrumbs: false
 #{{< gallery-slider dir="/uploads/live2/" auto-slide="3000" width="80vw" height="500px" >}}
 ---
 
 &nbsp;
-
 
 **Location**  
 An den Rampen 31, Nürnberg
@@ -21,5 +21,5 @@ An den Rampen 31, Nürnberg
 **Bands**  
 One Day in Fukushima & Kytaara 
 
-**Insta**  
+**Instagram**  
 {{< instagram C9XBKRUuuq7 >}}  

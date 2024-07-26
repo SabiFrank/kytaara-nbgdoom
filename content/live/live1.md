@@ -1,12 +1,12 @@
 ---
 title: "Kunstverein des SKV"
-date: "2024-05-17 20:00:00 +/-01:00"
+date: "2024-05-17"
 description: "Unser erster Auftritt im SKV des Kunstvereins Nürnberg"
 tags: ["auftritt", "nürnberg"]
 categories: ["live"]
-ShowToc: false
-TocOpen: true
 ShowRelated: false
+showToc: false
+ShowBreadCrumbs: false
 ---
 
 &nbsp;
@@ -21,6 +21,6 @@ Kunstverein des SKV, Z-Bau, Nürnberg
 **Bands**  
 Kytaara, Our Silent Voice, Coexist  
 
-**Insta**  
+**Instagram**  
 {{< instagram C7G-PUvtI-e >}}  
 {{< instagram C7H3FlXtU55 >}}
