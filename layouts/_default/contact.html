@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="min-h-80 contact-form">
-    <div class="container">
+  <div class="container">
     <hgroup>
       {{ partial "breadcrumbs.html" . }}
       <div style="margin-top:1em"></div>
@@ -8,33 +8,34 @@
       <h2>{{ .Description }}</h2>
     </hgroup>
 
-    <form name="contact" method="POST" action={{ .Site.Params.contactFormAction | relURL }} >
-        <!-- <input name="_redirect" type="hidden" id="name" value={{"/thanks/" | absURL}}> -->
-        <input name="_formsubmit_id" type="text" hidden>
-        <div class="grid">
-      
-          <label for="firstname">
-            Vorname
-            <input type="text" id="firstname" name="firstname" placeholder="Vorname" required>
-          </label>
-      
-          <label for="lastname">
-            Nachname
-            <input type="text" id="lastname" name="lastname" placeholder="Nachname">
-          </label>
-      
-        </div>
-      
-        <label for="email">Email-Adresse</label>
-        <input type="email" id="email" name="email" placeholder="Email-Adresse" required>
-        
-
-        <label for="email">Deine Nachricht</label>
-        <textarea name="message" id="message" cols="30" rows="5" style="resize: none;" required></textarea>
-      
-        <input type="submit">
-      
-      </form>
+    <div class="container">
+     <p>Egal ob über das Kontaktformular, <a href="https://www.instagram.com/kytaara_doom/">Social Media</a> oder via <a href="mailto:kytaara.doom@gmail.com">E-Mail</a>, wir freuen uns auf deine Nachricht! Wir antworten so früh wie möglich.</p>
     </div>
+
+    <form name="contact" method="POST" action={{ .Site.Params.contactFormAction | relURL }} >
+      <!-- <input name="_redirect" type="hidden" id="name" value={{"/thanks/" | absURL}}> -->
+      <input name="_formsubmit_id" type="text" hidden>
+      
+      <div class="grid">
+        <label for="firstname">
+          Vorname
+          <input type="text" id="firstname" name="firstname" placeholder="Vorname" required>
+        </label>
+        <label for="lastname">
+          Nachname
+          <input type="text" id="lastname" name="lastname" placeholder="Nachname">
+        </label>
+      </div>
+    
+      <label for="email">Email-Adresse</label>
+      <input type="email" id="email" name="email" placeholder="Email-Adresse" required>
+  
+      <label for="email">Deine Nachricht</label>
+      <textarea name="message" id="message" cols="30" rows="5" style="resize: none;" required></textarea>
+      
+      <input type="submit">
+      
+    </form>
+  </div>
 </div>
 {{ end }}

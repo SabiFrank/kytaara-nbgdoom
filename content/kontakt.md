@@ -1,6 +1,6 @@
 ---
 title: 'Kontakt' # in any language you want
-description: 'Hier kannst du Kontakt mit uns aufnehmen, wir freuen uns auf deine Nachricht.'
+description: 'Du hast Fragen oder willst uns engagieren?'
 disableShare: true
 layout: contact
 ShowReadingTime: false
