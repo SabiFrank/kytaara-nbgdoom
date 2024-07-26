@@ -9,7 +9,7 @@ ShowBreadCrumbs: false
 &nbsp;  
 Wir sind Kytaara. Fünf Leute machen diese Band aus: Unsere Sänger und Gitarristen Philipp und Marc, an der Sologitrarre Markus, unser Sänger und Bassist Moritz und Theresa an den Drums. 
 
-{{< gallery-slider dir="/uploads/bio/band/" auto-slide="3000" width="80vw" height="500px" >}}  
+{{< gallery-slider dir="/uploads/bio/band/" auto-slide="3000" width="clamp(300px, 80%, 1500px)" height="400px" >}}  
 
 
 ### Wie alles began
@@ -23,25 +23,24 @@ Ursprung Name der Band.
 
 Nun sind wir heiß darauf, unsere Musik live zu spielen und weiterhin das zu tun, was uns am meisten Spaß macht: Lieder schreiben, Bier trinke und Lärm machen.
 
-{{< portrait src="/static/uploads/bio/Phil.png"
+{{< portrait src="/uploads/bio/Phil.png"
 alt="Philipp | Guitar & Vocals" 
-title="Philipp | Guitar & Vocals" >}}
+title="Philipp | Guitar & Vocals" >}}  
 
-
-{{< portrait src="/static/uploads/bio/Marc.png"
+{{< portrait src="/uploads/bio/Marc.png"
 alt="Marc | Guitar & Vocals" 
-title="Marc | Guitar & Vocals" >}}
+title="Marc | Guitar & Vocals" >}}  
 
-{{< portrait src="/static/uploads/bio/Markus.png"
+{{< portrait src="/uploads/bio/Markus.png"
 alt="Markus | Guitar" 
-title="Markus | Guitar" >}}
+title="Markus | Guitar" >}}  
 
-{{< portrait src="/static/uploads/bio/Mo.png"
+{{< portrait src="/uploads/bio/Mo.png"
 alt="Moritz | Bass & Vocals" 
-title="Moritz | Bass & Vocals" >}}
+title="Moritz | Bass & Vocals">}}  
 
-{{< portrait src="/static/uploads/bio/Tessi.png"
+{{< portrait src="/uploads/bio/Tessi.png"
 alt="Theresa | Drums" 
-title="Theresa | Drums" >}}
+title="Theresa | Drums" >}}  
 
-Photos by XY
+Photos by XY  

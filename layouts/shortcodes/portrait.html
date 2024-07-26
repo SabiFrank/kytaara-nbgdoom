@@ -1,4 +1,69 @@
 <!-- https://binovarghese.com/blog/2023/06/image-shortcodes-for-hugo/ -->
+<style>
+  #slide-window {
+      position: relative;
+      width: clamp(200px, 80%, 1500px);
+      overflow: hidden;
+      top: 0px;
+      left: 0px;
+  }
+  
+  #slides-list {
+      width: clamp(200px, 80%, 1500px);
+      height: {{ $.Scratch.Get "height" }};
+      position: absolute;
+      margin: 0px;
+      padding: 0px;
+      -webkit-transform: translate3d(0px, 0px, 0px);
+      transform: translate3d(0px, 0px, 0px);
+      transition: all 0.66s ease;
+      -webkit-transition: all 0.66s ease;
+  }
+  
+  .slide {
+      list-style: none;
+      position: relative;
+      float: left;
+      margin: 0;
+      padding: 0;
+      width: clamp(200px, 80%, 1500px);
+      height: {{ $.Scratch.Get "height" }};
+      background: #ccc;
+      text-align: center;
+      line-height: 100%;
+      background-size: cover;
+      background-position: 50% 50%;
+      color: #fff;
+      -webkit-transform: translate3d(0px, 0px, 0px);
+      -webkit-transform-style: preserve-3d;
+  }
+  
+  .nav {
+      position: relative;
+      z-index: 9;
+      top: 45%;
+      cursor: pointer;
+      color: #fff;
+      opacity: 0.7;
+      transition: all 0.66s ease;
+      -webkit-transition: all 0.66s ease;
+  }
+  
+  .nav:hover {
+      opacity: 1.0;
+  }
+  
+  #left {
+      left: 3%;
+      float: left;
+  }
+  
+  #right {
+      right: 3%;
+      float: right;
+  }
+  </style>
+
 <figure {{ with .Get "class" }}class="{{ . }}"{{ end }}>
   {{ with .Get "link" }}<a href="{{ . }}">{{ end }}
     <img src="{{ .Get "src" }}" 

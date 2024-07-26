@@ -165,7 +165,6 @@ weight = "50"
 [[menus.main]]
 name = "Search"
 title = "Search"
-pre = "search"
 url = "/search"
 weight = "60"
 

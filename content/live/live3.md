@@ -1,5 +1,5 @@
 ---
-title: "Sandler Open Air"
+title: "XY"
 date: "2024-08-23 20:00:00 +/-01:00"
 description: "Unser dritter Auftritt"
 tags: ["auftritt", "nürnberg"]

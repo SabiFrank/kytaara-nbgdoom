@@ -10,7 +10,7 @@ ShowRelated: false
 ---
 
 &nbsp;
-{{< gallery-slider dir="/uploads/live1/" auto-slide="3000" width="80vw" height="500px" >}}
+{{< gallery-slider dir="/uploads/live1/" auto-slide="3000" width="clamp(300px, 80%, 1500px)" height="400px" >}}
 
 **Location**  
 Kunstverein des SKV, Z-Bau, Nürnberg  
