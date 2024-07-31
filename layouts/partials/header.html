@@ -11,16 +11,19 @@
           width="{{.Site.Params.label.iconHeight | safeHTML }}"
           height="{{.Site.Params.label.iconWidth | safeHTML }}"
         ></img> --> <!-- Switch Dark Light Theme ausgeschaltet -->
-        <img
-          id="darkMainIcon"
-          src="{{.Site.Params.label.darkNavIcon | relURL}}"
-          alt="{{ $label_text }}"
-          width="{{.Site.Params.label.iconHeight | safeHTML }}"
-          height="{{.Site.Params.label.iconWidth | safeHTML }}"
-        ></img>
-        <h3 style="margin-bottom: 0;">
+        <div style="margin-left:2em; margin-bottom:0">
+          <img
+            id="darkMainIcon"
+            src="{{.Site.Params.label.darkNavIcon | relURL}}"
+            alt="{{ $label_text }}"
+            width="{{.Site.Params.label.iconHeight | safeHTML }}"
+            height="{{.Site.Params.label.iconWidth | safeHTML }}"
+          >
+          </img>
+        </div>
+        <!-- <h3 style="margin-bottom: 0;">
           <strong>{{.Site.Params.label.title | default .Site.Title | markdownify}}</strong>
-        </h3>
+        </h3> -->
       </a>
     </li>
     <!-- <li class="toggle-container">

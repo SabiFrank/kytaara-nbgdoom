@@ -1,0 +1,34 @@
+<!-- https://binovarghese.com/blog/2023/06/image-shortcodes-for-hugo/ -->
+<!-- <style>
+  .portrait {
+    position: relative;
+    width: clamp(200px, 80%, 500px);
+    overflow: hidden;
+    height: auto;
+    border-style: none;
+  }
+</style> -->
+
+<figure {{ with .Get "class" }}class="portrait"{{ end }}>
+  {{ with .Get "link" }}<a href="{{ . }}">{{ end }}
+    <img src="{{ .Get "src" }}" 
+    {{ if or (.Get "alt") (.Get "caption") }}
+    alt="{{ with .Get "alt" }}{{ . }}
+    {{ else }}
+        {{ .Get "caption" }}
+    {{ end }}"{{ end }} />
+    {{ if .Get "link" }}</a>{{ end }}
+    {{ if or (or (.Get "title") (.Get "caption")) (.Get "attr") }}
+      <figcaption class="text-left">
+        {{ if isset .Params "title" }}
+        <h5>{{ .Get "title" }}</h5>{{ end }}
+        {{ if or (.Get "caption") (.Get "attr") }}
+        <p class="mt-0">
+        {{ .Get "caption" }}
+        {{ with .Get "attrlink" }}<a href="{{ . }}"> {{ end }}
+          {{ .Get "attr" }}
+        {{ if .Get "attrlink" }}</a> {{ end }}
+        </p> {{ end }}
+      </figcaption>
+  {{ end }}
+</figure>

@@ -64,7 +64,7 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
     </div>
   </div>
   <div class="text-center">
-  <a href="{{ "/blog" | absLangURL }}"><kbd>{{.Site.Params.homepage.seeMoreText}}</kbd></a>
+  <a href="{{ "/live" | absLangURL }}"><kbd>{{.Site.Params.homepage.seeMoreText}}</kbd></a>
 </div>
 </section>
 {{ end }}
@@ -77,7 +77,7 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
   </hgroup>
   <div class="container">
     <div class="grid">
-      <div class="container" style="text-align: right;">
+      <div class="container" style="text-align: center">
         <img
           src="{{.Site.Params.homepage.aboutImgUrl}}"
           alt="{{.Site.Params.author}}"
@@ -86,7 +86,7 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
           layout="intrinsic"
         ></img>
       </div>
-      <div class="container">
+      <div class="container" style="text-align: left;">
         {{.Site.Params.homepage.aboutContent}}
       </div>
     </div>
@@ -101,7 +101,7 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
     <h3>{{.Site.Params.homepage.portfolioDescription}}</h3>
   </hgroup>
   <div class="container">
-    <div class="grid grid-post">
+    <div class="grid grid-post" style="display: flex;   justify-content: center;"> <!-- ToDo: entferne style, wenn mehere da hinkommen -->
       {{ range .Site.Params.homepage.portfolio }}
       <a class="portfolio-post" href="{{.websiteUrl}}">
         <figure >

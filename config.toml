@@ -4,13 +4,13 @@ title = "Kytaara"
 
 ignoreErrors = ["error-remote-getjson"]
 
-paginate = "9"
+paginate = "3"
 copyright = 'A template by [Heksagon](https://www.heksagon.net "Your most friendly developer"); edited by Sabrina Frank'
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
-enableEmoji = true
+enableEmoji = false
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
@@ -29,21 +29,23 @@ keepWhitespace = false
 
 [params]
 env = "production"
-author = "Kytaara"
-description = "Stoner & Doom Metal made in Nuernberg"
+author = ""
+description = "Stoner & Doom Metal made in Nuremberg"
 math = false
-images = [ "/uploads/og.png" ]
+images = [ "/uploads/og.jpg" ]
 comments = false
-mainSections = [ "events" ]
+mainSections = [ "live" ]
 ShowShareButtons = false
-ShowCodeCopyButtons = false
+ShowCodeCopyButtons = true
 ShowRelated = false
 CookieNotice = "Wir verwenden Cookies, um deine Erfahrung auf unserer Website zu verbessern und relevante Werbung zu zeigen."
-CookieLink = "/legal/privacy/#cookies-and-web-beacons"
+CookieLink = "/legal/datenschutz/#Cookies"
 CookieButton = "Cookies Policy"
 disableAnchoredHeadings = false
+contactFormAction = "https://formspree.io/f/mvgpkpyy"
 ShowReadingTime = false
 ShowBreadCrumbs = true
+dateFormat = "02.01.2006"
 
 #[params.analytics.google]
 
@@ -52,12 +54,12 @@ ShowBreadCrumbs = true
 #[params.analytics.bing]
 
   [params.label]
-  title = "&nbsp&nbspKytaara"
-  text = "NBG Doom"
-  lightNavIcon = "/uploads/logo.svg"
-  darkNavIcon = "/uploads/logo.svg"
-  iconHeight = "35"
-  iconWIdth = "35"
+  title = "Kytaara"
+  #text = "NBG Doom"
+  #lightNavIcon = "/uploads/logo.png"
+  darkNavIcon = "/uploads/logo.png"
+  iconHeight = "100"
+  iconWIdth = "100"
 
   [params.assets]
   disableFingerprinting = false
@@ -72,35 +74,35 @@ ShowBreadCrumbs = true
   heroTitle = "Kytaara"
   heroDescription = "Stoner & Doom Metal made in Nuernberg"
   heroCTAPrimaryText = "Erlebe uns live"
-  heroCTAPrimaryUrl = "/events/"
+  heroCTAPrimaryUrl = "/live/"
   heroCTASecondaryText = "Wer wir sind"
   heroCTASecondaryUrl = "/about/"
   heroBackgroundImage = "/uploads/bg-head.png"
 
   disableAboutSection = false
-  aboutTitle = "Bio"
-  aboutDescription = "Stoner & Doom Metal made in Nuernberg"
+  aboutTitle = "Die Band"
+  aboutDescription = "Metal made in Nürnberg."
   aboutImgUrl = "/uploads/band-private.png"
-  aboutContent = "Wir sind eine junge Band aus Nürnberg, bestehend aus fünf Musiker*innen, die Einflüsse aus den Genres Stoner, Doom, Sludge, Core bis hin zum Blackmetal vereinen. Das Resultat ist eine stets breite Soundwand aus treibenden Riffs und spährischen Klangteppichen. Markenzeichen sind die vielen vornehmlich Orange und Sunn O))) Amps sowie drei fein aufeinander abgestimmte Gitarren, die diesen vollen Klangkörper möglich machen. Unentbehrliches Zentrum der Band sind die Bandbohnen, ohne die keine Probe stattfinden kann."
+  aboutContent = "Wir sind eine junge Band aus Nürnberg, bestehend aus fünf Musiker*innen, die Einflüsse aus den Genres Stoner, Doom, Sludge, Core bis hin zum Blackmetal vereinen. Das Resultat ist eine stets breite Soundwand aus treibenden Riffs und spährischen Klangteppichen. Markenzeichen ist der fein aufeinander abgestimmte Sound dreier Gitarren. Unentbehrliches Zentrum der Band sind aber die Bandbohnen, ohne die keine Probe stattfinden kann."
   disableBlogSection = false
-  blogTitle = "Events"
-  blogDescription = "Hier werden alle kommenden Auftritte gezeigt."
-  seeMoreText = "Vergangene Auftritte"
+  blogTitle = "Live"
+  blogDescription = "Auftritte von Kytaara"
+  seeMoreText = "Alle Auftritte" #ToDo: Aktivieren, wenn mehr als 6
 
   disablePortfolioSection = false
   portfolioTitle = "Musik"
   portfolioDescription = "Hier werden bald unsere Songs zu finden sein. Stay tuned."
 
-    #[[params.homepage.portfolio]]
-    #imageUrl = "/uploads/portfolio-1.webp"
+    [[params.homepage.portfolio]]
+    imageUrl = "/uploads/base-shoot.jpg"
     #description = "Erste Single"
 
     #[[params.homepage.portfolio]]
-    #imageUrl = "/uploads/portfolio-2.webp"
-    #description = "Portfolio Two."
+    #imageUrl = "/uploads/base-shoot.jpg"
+    #description = ""
 
     #[[params.homepage.portfolio]]
-    #imageUrl = "/uploads/portfolio-3.webp"
+    #imageUrl = "/uploads/base-shoot.jpg"
     #description = "Portfolio Three."
 
   [params.fuseOpts]
@@ -126,9 +128,9 @@ link = "plugins/js/feather.min.js"
 #weight = "20"
 
 [[menus.main]]
-name = "blog"
-title = "Events"
-url = "/events"
+name = "Live"
+title = "Live"
+url = "/live"
 weight = "10"
 
 [[menus.main]]
@@ -144,23 +146,28 @@ weight = "20"
 #weight = "30"
 
 [[menus.main]]
+name = "merch"
+title = "Merch"
+url = "/merch"
+weight = "30"
+
+[[menus.main]]
 name = "contact"
 title = "Kontakt"
 url = "/kontakt"
-weight = "30"
+weight = "40"
 
 [[menus.main]]
 name = "downloads"
 title = "Downloads"
 url = "/downloads"
-weight = "40"
+weight = "50"
 
-#[[menus.main]]
-#name = "Search"
-#title = "Search"
-#pre = "search"
-#url = "/search"
-#weight = "50"
+[[menus.main]]
+name = "Search"
+title = "Search"
+url = "/search"
+weight = "60"
 
 #[[menus.search]]
 #name = "Musik"
@@ -171,5 +178,5 @@ weight = "40"
 #[[menus.search]]
 #name = "Auftritte"
 #title = "Auftritte"
-#url = "/events"
+#url = "/live"
 #weight = "20"

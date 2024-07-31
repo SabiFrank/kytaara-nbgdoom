@@ -1,5 +1,5 @@
 // Nav
-@media (min-width: 576px) {
+@media (min-width: 699px) {
   .mobile-navigation {
     display: none;
   }
@@ -9,7 +9,7 @@
     padding: 0 0.25rem;
   }
 }
-@media (min-width: 0px) and (max-width: 576px) {
+@media (min-width: 0px) and (max-width: 699px) {
   .desktop-navigation {
     display: none;
   }
