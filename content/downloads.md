@@ -22,6 +22,7 @@ Download {{< download kytaara-logo-white.png >}}
 Download {{< download bg-header.png >}}  
  
 
-## Tech-Rider
+## TecRider
 
-Download {{< download techrider.pdf >}}  
+Download {{< download Kytaara_TecRider.pdf >}} 
+Download {{< embed-pdf url="/downloadables/Kytaara_TecRider.pdf" >}} 
