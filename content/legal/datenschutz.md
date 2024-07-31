@@ -287,6 +287,7 @@ dem DPF zertifizierte Unternehmen verpflichtet sich, diese Datenschutzstandards 
 Informationen hierzu erhalten Sie vom Anbieter unter folgendem Link:
 https://www.dataprivacyframework.gov/s/participant-search/participantdetail?contact=true&id=a2zt0000000GnywAAC&status=Active.  
 
+
 ## 6. Plugins und Tools  
 
 ### YouTube mit erweitertem Datenschutz
