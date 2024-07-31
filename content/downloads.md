@@ -24,5 +24,4 @@ Download {{< download bg-header.png >}}
 
 ## TecRider
 
-Download {{< download Kytaara_TecRider.pdf >}} 
-Download {{< embed-pdf url="/downloadables/Kytaara_TecRider.pdf" >}} 
+{{< pdf src="/downloadables/Kytaara_TecRider.pdf" width="100%" height="500px" >}}
