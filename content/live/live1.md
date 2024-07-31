@@ -1,6 +1,7 @@
 ---
 title: "Metalnight des SKV"
 date: "2024-05-17"
+publishdate: "2024-05-17"
 description: "Unser erster Auftritt mit dem SKV im Kunstverein Nürnberg"
 tags: ["auftritt", "nürnberg"]
 categories: ["live"]
@@ -9,7 +10,7 @@ showToc: false
 ShowBreadCrumbs: false
 ---
 
-&nbsp;
+&nbsp;  
 {{< gallery-slider dir="/uploads/live1/" auto-slide="3000" width="clamp(300px, 80%, 1500px)" height="400px" >}}
 
 **Veranstalter**  
