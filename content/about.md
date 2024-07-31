@@ -1,5 +1,6 @@
 ---
 title: Über uns
+description: Metal made in Nuremberg
 date: 2024-07-21T21:58:20+01:00
 layout: single
 searchHidden: true

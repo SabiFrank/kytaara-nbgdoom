@@ -2,7 +2,7 @@
 title: Downloads
 layout: single
 searchHidden: true
-description: Hier sind Logos, Bilder und Tech-Rider für den Download zu finden.
+description: Logos, Bilder und TecRider für den Download
 disableShare: true
 ShowReadingTime: false
 ShowAuthor: false
@@ -13,15 +13,24 @@ ShowBreadCrumbs: false
 &nbsp;
 ## Logo
 
-Download {{< download kytaara-logo-black.png >}}  
-Download {{< download kytaara-logo-white.png >}}  
+Downloade das Kytaara Logo in schwarz
+{{< a href="/downloadables/kytaara-logo-black.png" download="kytaara-logo-black" >}}
+hier
+{{< /a >}}.  
+
+Downloade das Kytaara Logo in weiß
+{{< a href="/downloadables/kytaara-logo-white.png" download="kytaara-logo-white" >}}
+hier
+{{< /a >}}.  
 
 
 ## Band
 
-Download {{< download bg-header.png >}}  
- 
+Downloade das Bandbild 
+{{< a href="/downloadables/bg-header.png" download="kytaara-band" >}}
+hier
+{{< /a >}}.  
 
-## Tech-Rider
+## TecRider
 
-Download {{< download techrider.pdf >}}  
+{{< pdf src="/downloadables/Kytaara_TecRider.pdf" width="100%" height="500px" >}}

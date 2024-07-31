@@ -72,7 +72,7 @@ dateFormat = "02.01.2006"
   [params.homepage]
   disableHeroSection = false
   heroTitle = "Kytaara"
-  heroDescription = "Stoner & Doom Metal made in Nuernberg"
+  heroDescription = "Stoner & Doom Metal made in Nuremberg"
   heroCTAPrimaryText = "Erlebe uns live"
   heroCTAPrimaryUrl = "/live/"
   heroCTASecondaryText = "Wer wir sind"
@@ -81,7 +81,7 @@ dateFormat = "02.01.2006"
 
   disableAboutSection = false
   aboutTitle = "Die Band"
-  aboutDescription = "Metal made in Nürnberg."
+  aboutDescription = "Metal made in Nuremberg."
   aboutImgUrl = "/uploads/band-private.png"
   aboutContent = "Wir sind eine junge Band aus Nürnberg, bestehend aus fünf Musiker*innen, die Einflüsse aus den Genres Stoner, Doom, Sludge, Core bis hin zum Blackmetal vereinen. Das Resultat ist eine stets breite Soundwand aus treibenden Riffs und spährischen Klangteppichen. Markenzeichen ist der fein aufeinander abgestimmte Sound dreier Gitarren. Unentbehrliches Zentrum der Band sind aber die Bandbohnen, ohne die keine Probe stattfinden kann."
   disableBlogSection = false
