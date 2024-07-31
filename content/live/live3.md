@@ -1,6 +1,6 @@
 ---
 title: "Upcoming"
-date: "2024-08-23"
+date: "2024-12-13"
 description: "Hier werden bald mehr Informationen zu finden sein"
 tags: ["auftritt", "nürnberg"]
 categories: ["live"]
@@ -11,6 +11,8 @@ ShowBreadCrumbs: false
 ---
 
 &nbsp;
+**Veranstalter**  
+TBD
 
 **Location**  
 TBD 

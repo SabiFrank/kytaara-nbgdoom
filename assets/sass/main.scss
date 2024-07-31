@@ -322,3 +322,14 @@ a[role='button'],
     transform: scale3d(1.05, 1.05, 1.05);
   }
 }
+
+/* Empyrean */
+@font-face {
+  font-family: 'Empyrean' !important; 
+  src:  local(''),
+        url('/fonts/Empyrean.woff2') format('woff2') !important,
+        url('/fonts/Empyrean.woff') format('woff') !important; 
+}
+/*  src: local(''),
+       url('/fonts/Empyrean.woff2') format('woff2'), 
+       url('/fonts/Empyrean.woff') format('woff') !important; */
