@@ -1,5 +1,5 @@
 ---
-title: "Projekt 31"
+title: "Grindcore x Doom Metal"
 date: "2024-07-26"
 description: "Grindcore trifft Doom Metal im Projekt 31"
 tags: ["auftritt", "nürnberg"]
@@ -11,6 +11,8 @@ ShowBreadCrumbs: false
 ---
 
 &nbsp;
+**Veranstalter**  
+P31
 
 **Location**  
 An den Rampen 31, Nürnberg
