@@ -1,4 +1,8 @@
 // Nav
+@use "pico" with (
+  $theme-color: "violet"
+);
+
 @media (min-width: 699px) {
   .mobile-navigation {
     display: none;
@@ -102,3 +106,4 @@ body > nav {
 #switch {
   display: none;
 }
+
