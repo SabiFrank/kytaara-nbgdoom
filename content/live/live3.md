@@ -3,7 +3,7 @@ title: "Upcoming"
 date: "2024-12-13"
 publishdate: "2024-07-25"
 description: "Hier werden bald mehr Informationen zu finden sein"
-tags: ["auftritt", "nürnberg"]
+tags: ["upcoming"]
 categories: ["live"]
 ShowRelated: false
 showToc: false

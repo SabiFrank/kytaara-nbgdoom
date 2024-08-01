@@ -1,5 +1,5 @@
 ---
-title: 'Kontakt' # in any language you want
+title: 'Kontakt'
 description: 'Du hast Fragen oder willst uns engagieren?'
 disableShare: true
 layout: contact

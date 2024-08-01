@@ -18,3 +18,7 @@ E-Mail: kytaara.doom@gmail.com
 
 **Quelle:**  
 [eRecht24](https://www.e-recht24.de)
+
+**Urheberrecht Medien**
+
+© 2024 Kytaara – Alle Inhalte dieser Website, insbesondere Texte, Fotografien, Grafiken und Musik sind urheberrechtlich geschützt. Alle Rechte, einschließlich der Vervielfältigung, Veröffentlichung, Bearbeitung und Übersetzung, bleiben Kytaara vorbehalten. 

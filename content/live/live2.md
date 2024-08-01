@@ -3,7 +3,7 @@ title: "Grindcore x DoomMetal"
 date: "2024-08-01"
 publishdate: "2024-07-01"
 description: "Grindcore trifft Doom Metal im Projekt 31"
-tags: ["auftritt", "nürnberg"]
+tags: ["nürnberg", "P31"]
 categories: ["live"]
 ShowRelated: false
 showToc: false
