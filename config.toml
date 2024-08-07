@@ -13,6 +13,9 @@ buildFuture = false
 buildExpired = false
 enableEmoji = false
 
+#Redirection rules für schöne URLs
+disableAliases = true
+
 [outputFormats.REDIR]
 mediaType = "text/netlify"
 baseName = "_redirects"
@@ -23,7 +26,7 @@ notAlternative = true
 delimiter = ""
 
 [outputs]
-home = [ "HTML", "RSS", "JSON" ]
+home = [ "HTML", "RSS", "JSON", "REDIR" ]
 
 [minify]
 disableCSS = false
