@@ -6,7 +6,7 @@ title = "Kytaara"
 ignoreErrors = ["error-remote-getjson"]
 
 paginate = "3"
-copyright = 'A template by [Heksagon](https://www.heksagon.net "Your most friendly developer"); edited by Sabrina Frank'
+copyright = 'A template by [Heksagon](https://github.com/heksagonnet "Your most friendly developer"); edited by [Sabrina Frank](https://github.com/SabiFrank/)'
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
