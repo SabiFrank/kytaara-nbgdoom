@@ -8,21 +8,18 @@ ShowBreadCrumbs: false
 ---
 
 &nbsp;  
-Wir sind Kytaara. Fünf Leute machen diese Band aus: Unsere Sänger und Gitarristen Philipp und Marc, an der Sologitrarre Markus, unser Sänger und Bassist Moritz und Theresa an den Drums. 
+### Wir sind Kytaara.  
 
 {{< gallery-slider dir="/uploads/bio/band/" auto-slide="3000" width="clamp(300px, 80%, 1500px)" height="400px" >}}   
 
+Fünf Leute machen diese Band aus: Unsere Sänger und Gitarristen Philipp und Marc, an der Sologitrarre Markus, unser Sänger und Bassist Moritz und Theresa an den Drums. 
 
-### Wie alles began
+{{< gallery-slider dir="/uploads/bio/band/" auto-slide="3000" width="clamp(300px, 80%, 1500px)" height="400px" >}}  
+&nbsp;  
 
-2020 in Lauf startete die Band mit einer etwas anderen Besetzung. XY
+Nachdem wir seit der Gründung 2020 in Lauf viel geprobt haben, sind wir heiß darauf, unsere Musik live zu spielen und weiterhin das zu tun, was uns am meisten Spaß macht: Lieder schreiben, Bier trinke und Lärm machen.
 
-Ursprung Name der Band.  
-
-
-### Heute
-
-Nun sind wir heiß darauf, unsere Musik live zu spielen und weiterhin das zu tun, was uns am meisten Spaß macht: Lieder schreiben, Bier trinke und Lärm machen.
+### Die Bandmitglieder  
 
 {{< portrait src="/uploads/bio/Phil.png"
 alt="Philipp | Guitar & Vocals" 
@@ -43,5 +40,3 @@ title="Moritz | Bass & Vocals">}}
 {{< portrait src="/uploads/bio/Tessi.png"
 alt="Theresa | Drums" 
 title="Theresa | Drums" >}}  
-
-Photos by XY  

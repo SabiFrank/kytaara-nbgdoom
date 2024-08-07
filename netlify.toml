@@ -1,10 +1,10 @@
 [build]
   publish = "public"
-  command = "hugo --minify --gc"
+  command = "hugo --minify --gc" # 
 
 [build.environment]
   HUGO_VERSION = "0.91.0"
-  HUGO_BASEURL = "/"
+  HUGO_BASEURL = "https://kytaara.de/"
 
 [[headers]]
   for = "/*" # This defines which paths this specific [[headers]] block will cover.
