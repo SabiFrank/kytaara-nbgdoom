@@ -6,15 +6,27 @@ title = "Kytaara"
 ignoreErrors = ["error-remote-getjson"]
 
 paginate = "3"
-copyright = 'A template by [Heksagon](https://www.heksagon.net "Your most friendly developer"); edited by Sabrina Frank'
+copyright = 'A template by [Heksagon](https://github.com/heksagonnet "Your most friendly developer"); edited by [Sabrina Frank](https://github.com/SabiFrank/)'
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
 enableEmoji = false
 
+#Redirection rules für schöne URLs
+disableAliases = true
+
+[outputFormats.REDIR]
+mediaType = "text/netlify"
+baseName = "_redirects"
+isPlainText = true
+notAlternative = true
+
+[mediaTypes."text/netlify"]
+delimiter = ""
+
 [outputs]
-home = [ "HTML", "RSS", "JSON" ]
+home = [ "HTML", "RSS", "JSON", "REDIR" ]
 
 [minify]
 disableCSS = false
@@ -165,9 +177,9 @@ url = "/downloads"
 weight = "50"
 
 [[menus.main]]
-name = "Search"
-title = "Search"
-url = "/search"
+name = "Suche"
+title = "Suche"
+url = "/suche"
 weight = "60"
 
 #[[menus.search]]
