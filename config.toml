@@ -165,9 +165,9 @@ url = "/downloads"
 weight = "50"
 
 [[menus.main]]
-name = "Search"
-title = "Search"
-url = "/search"
+name = "Suche"
+title = "Suche"
+url = "/suche"
 weight = "60"
 
 #[[menus.search]]
