@@ -4,7 +4,7 @@
 
 [build.environment]
   HUGO_VERSION = "0.91.0"
-  HUGO_BASEURL = "http://kytaara.de/"
+  HUGO_BASEURL = "kytaara.de"
 
 [[headers]]
   for = "/*" # This defines which paths this specific [[headers]] block will cover.
