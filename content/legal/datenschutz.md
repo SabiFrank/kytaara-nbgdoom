@@ -4,7 +4,7 @@ date: 2024-07-21T22:00:00+01:00
 layout: legal # is necessary
 searchHidden: true
 ShowBreadCrumbs: false
-url: /legal/datenschutz
+url: /datenschutz
 #description: This is the privacy policy page for Kytaara - NBG Doom (Website.com)
 ---
 

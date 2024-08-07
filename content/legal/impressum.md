@@ -3,7 +3,8 @@ title: Impressum
 date: 2024-07-21T21:58:20+01:00
 layout: legal # is necessary
 searchHidden: true
-url: /legal/impressum
+ShowBreadCrumbs: false
+url: /impressum
 #description: Dies ist das Impressum für Kytaara.de
 ---
 
