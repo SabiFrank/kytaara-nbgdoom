@@ -1,4 +1,4 @@
-baseURL = "http://kytaara.de/"
+baseURL = "https://kytaara.de/"
 canonifyurls = true
 languageCode = "de-de"
 title = "Kytaara"
