@@ -1,25 +1,6 @@
 feather.replace()
 
-let theme = localStorage.getItem('data-theme')
-
-const changeThemeToDark = () => {
-  document.getElementById('lightIcon').setAttribute('style', 'display:none')
-  document.getElementById('lightMainIcon').setAttribute('style', 'display:none')
-  document.getElementById('darkIcon').setAttribute('style', 'inline-block')
-  document.getElementById('darkMainIcon').setAttribute('style', 'inline-block')
-  document.documentElement.setAttribute('data-theme', 'dark') // set theme to dark
-  localStorage.setItem('data-theme', 'dark') // save theme to local storage
-}
-
-checkbox.addEventListener('change', () => {
-  let theme = localStorage.getItem('data-theme')
-  if (theme === 'dark') {
-    changeThemeToDark()
-  } else if (theme === 'light') {
-    changeThemeToDark()
-  }
-})
-
+let theme = 'dark'
 
 const mobileNav = document.getElementById('mobileNav')
 const menuOpen = document.getElementById('menuOpen')
