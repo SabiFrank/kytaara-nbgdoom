@@ -16,7 +16,7 @@ Fünf Leute machen diese Band aus: Unsere Sänger und Gitarristen Philipp und Ma
 Fotografie: Mareta
 &nbsp;  
 
-Nachdem wir seit der Gründung 2020 in Lauf viel geprobt haben, sind wir heiß darauf, unsere Musik live zu spielen und weiterhin das zu tun, was uns am meisten Spaß macht: Lieder schreiben, Bier trinke und Lärm machen.
+Nachdem wir seit der Gründung 2020 in Lauf viel geprobt haben, sind wir heiß darauf, unsere Musik live zu spielen und weiterhin das zu tun, was uns am meisten Spaß macht: Lieder schreiben, Bier trinken und Lärm machen.
 
 ### Die Bandmitglieder  
 

@@ -13,7 +13,7 @@ buildFuture = false
 buildExpired = false
 enableEmoji = false
 
-#Redirection rules für schöne URLs
+#Redirection rules für schöne URLs ToDo
 disableAliases = true
 
 [outputFormats.REDIR]
@@ -59,6 +59,7 @@ contactFormAction = "https://formspree.io/f/mvgpkpyy"
 ShowReadingTime = false
 ShowBreadCrumbs = true
 dateFormat = "02.01.2006"
+data-theme = "dark"
 
 #[params.analytics.google]
 
