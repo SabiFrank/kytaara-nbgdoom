@@ -1,13 +1,22 @@
 /* Can be forced with data-theme="light" */
+/*
 [data-theme="light"],
 :root:not([data-theme="dark"]) {
   --muted-color: #4b555c !important;
   --link-color: #27455a !important;
 }
+*/
 
 /* Automatically enabled if user has Dark mode enabled */
+/*
 @media only screen and (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
+    --muted-color: #8fa3b1 !important;
+    --link-color: #4c82a8 !important;
+  }
+*/
+@media only screen{
+  :root{
     --muted-color: #8fa3b1 !important;
     --link-color: #4c82a8 !important;
   }
@@ -22,6 +31,9 @@
 :root {
   --spacing-hero: 5rem;
   --border-radius: 0.3rem !important;
+  /*copied dark theme params into root*/
+  --muted-color: #8fa3b1 !important;
+  --link-color: #4c82a8 !important;
 }
 
 *,

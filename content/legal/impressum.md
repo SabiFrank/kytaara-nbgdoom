@@ -15,7 +15,7 @@ Carl-Legien-Straße 18
 
 **Kontakt**  
 Telefon: +49 (0) 1520 3311192  
-E-Mail: kytaara.doom@gmail.com
+E-Mail: kytaara@gmail.com
 
 **Quelle:**  
 [eRecht24](https://www.e-recht24.de)
