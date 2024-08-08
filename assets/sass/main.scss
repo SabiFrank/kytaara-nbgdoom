@@ -15,6 +15,12 @@
     --link-color: #4c82a8 !important;
   }
 */
+@media only screen{
+  :root{
+    --muted-color: #8fa3b1 !important;
+    --link-color: #4c82a8 !important;
+  }
+}
 
 /* Enabled if forced with data-theme="dark" */
 [data-theme="dark"] {
