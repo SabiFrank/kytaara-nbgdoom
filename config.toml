@@ -1,7 +1,8 @@
-baseURL = "https://kytaara.de/"
+#baseURL = "https://kytaara.de/"
+baseURL = "/"
 canonifyurls = true
 languageCode = "de-de"
-title = "Kytaara"
+title = "Metal-Livemusik aus Nürnberg - Kytaara - Doom & Stoner Band"
 
 ignoreErrors = ["error-remote-getjson"]
 
@@ -43,7 +44,7 @@ keepWhitespace = false
 [params]
 env = "production"
 author = ""
-description = "Stoner & Doom Metal made in Nuremberg"
+description = "Kytaara ist eine junge, fünfköpfige Band aus Nürnberg, die Einflüsse aus den Genres Stoner, Doom, Sludge und Core mit treibenden Riffs und spährischen Klangteppichen vereinen."
 math = false
 images = [ "/uploads/og.jpg" ]
 comments = false
@@ -62,13 +63,11 @@ dateFormat = "02.01.2006"
 data-theme = "dark"
 
 #[params.analytics.google]
-
 #[params.analytics.yandex]
-
 #[params.analytics.bing]
 
   [params.label]
-  title = "Kytaara"
+  title = "Kytaara - Stoner & Doom Metal"
   #text = "NBG Doom"
   #lightNavIcon = "/uploads/logo.png"
   darkNavIcon = "/uploads/logo.png"
