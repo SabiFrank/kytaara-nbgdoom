@@ -11,7 +11,7 @@ ShowBreadCrumbs: false
 ---
 
 &nbsp;  
-{{< gallery-slider dir="/uploads/live2/" auto-slide="3000" width="80%">}}
+{{< gallery-slider dir="/uploads/live2/" auto-slide="3000" width="auto" height="400px">}}
 Fotografie: Privatperson
 
 **Veranstalter**  

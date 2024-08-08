@@ -1,5 +1,4 @@
-#baseURL = "https://kytaara.de/"
-baseURL = "/"
+baseURL = "https://kytaara.de/"
 canonifyurls = true
 languageCode = "de-de"
 title = "Metal-Livemusik aus Nürnberg - Kytaara - Doom & Stoner Band"
@@ -14,20 +13,8 @@ buildFuture = false
 buildExpired = false
 enableEmoji = false
 
-#Redirection rules für schöne URLs ToDo
-disableAliases = true
-
-[outputFormats.REDIR]
-mediaType = "text/netlify"
-baseName = "_redirects"
-isPlainText = true
-notAlternative = true
-
-[mediaTypes."text/netlify"]
-delimiter = ""
-
 [outputs]
-home = [ "HTML", "RSS", "JSON", "REDIR" ]
+home = [ "HTML", "RSS", "JSON" ]
 
 [minify]
 disableCSS = false
