@@ -8,12 +8,14 @@ categories: ["live"]
 ShowRelated: false
 showToc: false
 ShowBreadCrumbs: false
-#{{< gallery-slider dir="/uploads/live2/" auto-slide="3000" width="80vw" height="500px" >}}
 ---
 
 &nbsp;  
+{{< gallery-slider dir="/uploads/live2/" auto-slide="3000" width="auto" height="400px">}}
+Fotografie: Privatperson
+
 **Veranstalter**  
-P31
+[Projekt31](https://projekt31.org/)
 
 **Location**  
 An den Rampen 31, Nürnberg

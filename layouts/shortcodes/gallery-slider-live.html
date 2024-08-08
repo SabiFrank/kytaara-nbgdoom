@@ -1,7 +1,3 @@
-{{ $.Scratch.Add "width" (.Get "width" | default "5em") }}
-{{ $.Scratch.Add "height" (.Get "height" | default "5em") }}
-{{ $.Scratch.Add "auto-slide" (.Get "auto-slide" | default "0") }}
-
 {{ $.Scratch.Add "arrow-left" (.Get "arrow-left" | default "fa-chevron-left") }}
 {{ $.Scratch.Add "arrow-right" (.Get "arrow-right" | default "fa-chevron-right") }}
 
@@ -19,17 +15,16 @@
 <style>
 #slide-window {
     position: relative;
-    width: {{ $.Scratch.Get "width" }};
-    height: {{ $.Scratch.Get "height" }};
+    width: clamp(300px, 80%, 500px);
+    height: fit-content;
     overflow: hidden;
     top: 0px;
     left: 0px;
-    object-fit: contain;
 }
 
 #slides-list {
-    width: {{ $.Scratch.Get "width" }};
-    height: {{ $.Scratch.Get "height" }};
+    width: clamp(300px, 80%, 500px);
+    height: fit-content;
     position: absolute;
     margin: 0px;
     padding: 0px;
@@ -37,7 +32,6 @@
     transform: translate3d(0px, 0px, 0px);
     transition: all 0.66s ease;
     -webkit-transition: all 0.66s ease;
-    object-fit: contain;
 }
 
 .slide {
@@ -46,8 +40,11 @@
     float: left;
     margin: 0;
     padding: 0;
-    width: {{ $.Scratch.Get "width" }};
-    height: {{ $.Scratch.Get "height" }};
+    width: 100%;
+    height: auto;
+    max-width:100%;
+    object-fit: contain;
+    aspect-ratio: 1;
     background: #ccc;
     text-align: center;
     line-height: 100%;
@@ -56,9 +53,6 @@
     color: #fff;
     -webkit-transform: translate3d(0px, 0px, 0px);
     -webkit-transform-style: preserve-3d;
-    /* max-width:100%;
-    max-height:100%; */
-    object-fit: contain;
 }
 
 .nav {
@@ -161,7 +155,7 @@ sliderJQuery(function( $ ) {
     }
 
     {{ if ne (.Get "auto-slide") "0" }}
-      var autoSlide = parseInt({{ $.Scratch.Get "auto-slide" }}, 10);
+      var autoSlide = parseInt(3000, 10);
       var autoSlideInterval;
       function resetAutoSlide(){
         if(autoSlide) {

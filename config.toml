@@ -1,5 +1,4 @@
-#baseURL = "https://kytaara.de/"
-baseURL = "/"
+baseURL = "https://kytaara.de/"
 canonifyurls = true
 languageCode = "de-de"
 title = "Metal-Livemusik aus Nürnberg - Kytaara - Doom & Stoner Band"
@@ -14,20 +13,8 @@ buildFuture = false
 buildExpired = false
 enableEmoji = false
 
-#Redirection rules für schöne URLs ToDo
-disableAliases = true
-
-[outputFormats.REDIR]
-mediaType = "text/netlify"
-baseName = "_redirects"
-isPlainText = true
-notAlternative = true
-
-[mediaTypes."text/netlify"]
-delimiter = ""
-
 [outputs]
-home = [ "HTML", "RSS", "JSON", "REDIR" ]
+home = [ "HTML", "RSS", "JSON" ]
 
 [minify]
 disableCSS = false
@@ -43,10 +30,10 @@ keepWhitespace = false
 
 [params]
 env = "production"
-author = ""
+author = "Sabrina Frank"
 description = "Kytaara ist eine junge, fünfköpfige Band aus Nürnberg, die Einflüsse aus den Genres Stoner, Doom, Sludge und Core mit treibenden Riffs und spährischen Klangteppichen vereinen."
 math = false
-images = [ "/uploads/og.jpg" ]
+images = [ "/uploads/og.webp" ]
 comments = false
 mainSections = [ "live" ]
 ShowShareButtons = false
@@ -69,8 +56,8 @@ data-theme = "dark"
   [params.label]
   title = "Kytaara - Stoner & Doom Metal"
   #text = "NBG Doom"
-  #lightNavIcon = "/uploads/logo.png"
-  darkNavIcon = "/uploads/logo.png"
+  #lightNavIcon = "/uploads/logo.webp"
+  darkNavIcon = "/uploads/logo.webp"
   iconHeight = "100"
   iconWIdth = "100"
 
@@ -90,12 +77,12 @@ data-theme = "dark"
   heroCTAPrimaryUrl = "/live/"
   heroCTASecondaryText = "Wer wir sind"
   heroCTASecondaryUrl = "/about/"
-  heroBackgroundImage = "/uploads/bg-head.png"
+  heroBackgroundImage = "/uploads/bg-head.webp"
 
   disableAboutSection = false
   aboutTitle = "Die Band"
   aboutDescription = "Metal made in Nuremberg."
-  aboutImgUrl = "/uploads/band-private.png"
+  aboutImgUrl = "/uploads/band-private.webp"
   aboutContent = "Wir sind eine junge Band aus Nürnberg, bestehend aus fünf Musiker*innen, die Einflüsse aus den Genres Stoner, Doom, Sludge, Core bis hin zum Blackmetal vereinen. Das Resultat ist eine stets breite Soundwand aus treibenden Riffs und spährischen Klangteppichen. Markenzeichen ist der fein aufeinander abgestimmte Sound dreier Gitarren. Unentbehrliches Zentrum der Band sind aber die Bandbohnen, ohne die keine Probe stattfinden kann."
   disableBlogSection = false
   blogTitle = "Live"
@@ -107,15 +94,15 @@ data-theme = "dark"
   portfolioDescription = "Hier werden bald unsere Songs zu finden sein. Stay tuned."
 
     [[params.homepage.portfolio]]
-    imageUrl = "/uploads/base-shoot.jpg"
+    imageUrl = "/uploads/base-shoot.webp"
     #description = "Erste Single"
 
     #[[params.homepage.portfolio]]
-    #imageUrl = "/uploads/base-shoot.jpg"
+    #imageUrl = "/uploads/base-shoot.webp"
     #description = ""
 
     #[[params.homepage.portfolio]]
-    #imageUrl = "/uploads/base-shoot.jpg"
+    #imageUrl = "/uploads/base-shoot.webp"
     #description = "Portfolio Three."
 
   [params.fuseOpts]

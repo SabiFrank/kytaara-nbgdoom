@@ -14,9 +14,9 @@
     </div>
     
     {{- if .Site.Copyright }}
-    <span>{{ .Site.Copyright | markdownify }} &copy; {{ now.Format "2006"}} {{ .Site.Title }}</span>
+    <span>{{ .Site.Copyright | markdownify }} &copy; {{ now.Format "2006"}} Kytaara</span>
     {{- else }}
-    <span>&copy; {{ now.Format "2006"}} <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a></span>
+    <span>&copy; {{ now.Format "2006"}} <a href="{{ "" | absLangURL }}">Kytaara</a></span>
     {{- end }}
     <div>
         <a href="{{ "/legal/datenschutz" | absLangURL }}">Datenschutz</a> 
