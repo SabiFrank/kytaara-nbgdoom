@@ -8,7 +8,7 @@ categories: ["live"]
 ShowRelated: false
 showToc: false
 ShowBreadCrumbs: false
-#{{< gallery-slider dir="/uploads/live3/" auto-slide="3000" width="80vw" height="500px" >}}
+#{{< gallery-slider dir="/uploads/live3/" auto-slide="3000" width="80%" >}}
 ---
 
 &nbsp;  
