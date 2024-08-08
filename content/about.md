@@ -12,7 +12,7 @@ ShowBreadCrumbs: false
 
 Fünf Leute machen diese Band aus: Unsere Sänger und Gitarristen Philipp und Marc, an der Sologitarre Markus, unser Sänger und Bassist Moritz und Theresa an den Drums. 
 
-{{< gallery-slider dir="/uploads/bio/band/" auto-slide="3000" width="clamp(10em, 25vw, 20em)" >}}
+{{< gallery-slider dir="/uploads/bio/band/" auto-slide="3000" width="clamp(300px, 80%, 1000px)" height="350px" >}}
 Fotografie: Mareta
 &nbsp;  
 

@@ -9,7 +9,7 @@ ShowBreadCrumbs: false
 &nbsp;  
 Von uns gibt es T-Shirts in Frauen- und Männerschnitt (Größe S - XXL) zu kaufen und Sticker kostenlos dazu. Unsere weiße Limited-Edition ist bereits vergriffen (Danke an unsere Unterstützer!), aber die schwarzen Shirts warten noch auf neue Besitzer.
 
-{{< gallery-slider dir="/uploads/merch/" auto-slide="3000" width="80%" >}}
+{{< gallery-slider dir="/uploads/merch/" auto-slide="3000" width="clamp(300px, 80%, 400px)" height="400px">}}
 Schwarzes Shirt: Frauenschnitt, weißes Schirt: Männerschnitt.  
 &nbsp;  
 
