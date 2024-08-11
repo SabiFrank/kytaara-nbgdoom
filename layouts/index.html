@@ -47,9 +47,9 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
             >
             {{ end }}
           </figure> -->
-          <hgroup role="group" aria-labelledby="subsubtitle1" aria-describedby="description">
-            <h3 id="subsubtitle1">{{ .Title }}</h3>
-            <hr id="description" />
+          <hgroup role="group" aria-labelledby="subsubtitle2" aria-describedby="description1">
+            <h3 id="subsubtitle2">{{ .Title }}</h3>
+            <hr id="description1" />
             <p>
               {{ .Description | plainify | htmlUnescape | truncate 100 }}{{ if
               .Truncated }}...{{ end }}
@@ -69,8 +69,8 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
 
 {{- if not (.Site.Params.homepage.disableAboutSection) }}
 <section>
-  <hgroup class="text-center" role="group" aria-labelledby="subtitle2" aria-describedby="subsubtitle2">
-    <h2 id="subtitle2">{{.Site.Params.homepage.aboutTitle}}</h2>
+  <hgroup class="text-center" role="group" aria-labelledby="subtitle3" aria-describedby="subsubtitle2">
+    <h2 id="subtitle3">{{.Site.Params.homepage.aboutTitle}}</h2>
     <h3 id="subsubtitle2">{{.Site.Params.homepage.aboutDescription}}</h3>
   </hgroup><!-- hgroup is not supported by html5, but must remain due to styling reasons-->
   <div class="container">
@@ -93,8 +93,8 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
 
 {{- if not (.Site.Params.homepage.disablePortfolioSection) }}
 <section>
-  <hgroup class="text-center" role="group" aria-labelledby="subtitle3" aria-describedby="subsubtitle3">
-    <h2 id="subtitle3">{{.Site.Params.homepage.portfolioTitle}}</h2>
+  <hgroup class="text-center" role="group" aria-labelledby="subtitle4" aria-describedby="subsubtitle3">
+    <h2 id="subtitle4">{{.Site.Params.homepage.portfolioTitle}}</h2>
     <h3 id="subsubtitle3">{{.Site.Params.homepage.portfolioDescription}}</h3>
   </hgroup><!-- hgroup is not supported by html5, but must remain due to styling reasons-->
   <div class="container">
