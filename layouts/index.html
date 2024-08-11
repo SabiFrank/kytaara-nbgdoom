@@ -28,8 +28,8 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
 
 {{- if not (.Site.Params.homepage.disableBlogSection) }}
 <section>
-  <hgroup class="text-center" role="group" aria-labelledby="subtitle" aria-describedby="subsubtitle">
-    <h2 id="subtitle">{{.Site.Params.homepage.blogTitle}}</h2>
+  <hgroup class="text-center" role="group" aria-labelledby="subtitle1" aria-describedby="subsubtitle">
+    <h2 id="subtitle1">{{.Site.Params.homepage.blogTitle}}</h2>
     <h3 id="subsubtitle">{{.Site.Params.homepage.blogDescription}}</h3>
   </hgroup><!-- hgroup is not supported by html5, but must remain due to styling reasons-->
   <div class="container">
@@ -47,8 +47,8 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
             >
             {{ end }}
           </figure> -->
-          <hgroup role="group" aria-labelledby="subsubtitle" aria-describedby="description">
-            <h3 id="subsubtitle">{{ .Title }}</h3>
+          <hgroup role="group" aria-labelledby="subsubtitle1" aria-describedby="description">
+            <h3 id="subsubtitle1">{{ .Title }}</h3>
             <hr id="description" />
             <p>
               {{ .Description | plainify | htmlUnescape | truncate 100 }}{{ if
@@ -69,9 +69,9 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
 
 {{- if not (.Site.Params.homepage.disableAboutSection) }}
 <section>
-  <hgroup class="text-center" role="group" aria-labelledby="subtitle" aria-describedby="subsubtitle">
-    <h2 id="subtitle">{{.Site.Params.homepage.aboutTitle}}</h2>
-    <h3 id="subsubtitle">{{.Site.Params.homepage.aboutDescription}}</h3>
+  <hgroup class="text-center" role="group" aria-labelledby="subtitle2" aria-describedby="subsubtitle2">
+    <h2 id="subtitle2">{{.Site.Params.homepage.aboutTitle}}</h2>
+    <h3 id="subsubtitle2">{{.Site.Params.homepage.aboutDescription}}</h3>
   </hgroup><!-- hgroup is not supported by html5, but must remain due to styling reasons-->
   <div class="container">
     <div class="grid">
@@ -93,9 +93,9 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
 
 {{- if not (.Site.Params.homepage.disablePortfolioSection) }}
 <section>
-  <hgroup class="text-center" role="group" aria-labelledby="subtitle" aria-describedby="subsubtitle">
-    <h2 id="subtitle">{{.Site.Params.homepage.portfolioTitle}}</h2>
-    <h3 id="subsubtitle">{{.Site.Params.homepage.portfolioDescription}}</h3>
+  <hgroup class="text-center" role="group" aria-labelledby="subtitle3" aria-describedby="subsubtitle3">
+    <h2 id="subtitle3">{{.Site.Params.homepage.portfolioTitle}}</h2>
+    <h3 id="subsubtitle3">{{.Site.Params.homepage.portfolioDescription}}</h3>
   </hgroup><!-- hgroup is not supported by html5, but must remain due to styling reasons-->
   <div class="container">
     <div class="grid grid-post" style="display: flex;   justify-content: center;"> <!-- ToDo: entferne style, wenn mehere da hinkommen -->
