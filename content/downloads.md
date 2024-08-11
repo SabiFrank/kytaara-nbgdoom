@@ -33,4 +33,4 @@ hier
 
 ## TecRider
 
-{{< pdf src="/downloadables/Kytaara_TecRider.pdf" width="400em" height="400em" >}}
+{{< pdf src="/downloadables/Kytaara_TecRider.pdf" width="400em" height="400em" >}}.

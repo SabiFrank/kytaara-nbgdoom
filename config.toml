@@ -14,7 +14,7 @@ buildExpired = false
 enableEmoji = false
 
 [outputs]
-home = [ "HTML", "RSS", "JSON", "CSS" ]
+home = [ "HTML", "RSS", "JSON" ]
 
 [minify]
 disableCSS = false
