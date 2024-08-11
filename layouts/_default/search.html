@@ -1,8 +1,8 @@
 {{- define "main" }}
 <div class="container min-h-80">
     <div class="searchbox">
-        <hgroup>
-            <div style="margin-top:1em"></div>
+        <hgroup role="group" aria-labelledby="search1" aria-describedby="search2">
+            <div id="search1" style="margin-top:1em"></div>
             <h1>{{- (printf "%s&nbsp;" .Title ) | htmlUnescape -}}
                 <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none"
                     stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -11,7 +11,7 @@
                 </svg>
             </h1>
             {{- $currentPage := . }}
-                <ul style="display:flex;gap:10px;flex-wrap:wrap;list-style-type: none;margin-top: 10px;">
+                <ul id="search2" style="display:flex;gap:10px;flex-wrap:wrap;list-style-type: none;margin-top: 10px;">
                     {{- range .Site.Menus.search }}
                     {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
                     {{- $page_url:= $currentPage.Permalink | absLangURL }}
@@ -33,7 +33,7 @@
                 {{ .Description }}
             </div>
             {{- end }}
-        </hgroup>
+        </hgroup><!-- hgroup is not supported by html5, but must remain due to styling reasons-->
 
 
         <div id="searchbox">

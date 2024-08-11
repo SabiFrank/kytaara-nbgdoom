@@ -11,7 +11,7 @@ ShowBreadCrumbs: false
 ---
 
 &nbsp;  
-{{< gallery-slider dir="/uploads/live2/" auto-slide="3000" width="auto" height="400px">}}
+{{< gallery-slider dir="/uploads/live2/" auto-slide="3000" width="80%" height="400px">}}
 Fotografie: Privatperson
 
 **Veranstalter**  
@@ -24,7 +24,7 @@ An den Rampen 31, Nürnberg
 01.08.2024 | 20:00  
 
 **Bands**  
-One Day in Fukushima & Kytaara 
+[One Day in Fukushima](https://onedayinfukushima.bandcamp.com/) & Kytaara 
 
 **Instagram**  
 {{< instagram C9XBKRUuuq7 >}}  

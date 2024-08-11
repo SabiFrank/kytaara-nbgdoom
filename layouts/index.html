@@ -3,10 +3,10 @@
 <section class="hero" style="background-image:linear-gradient(rgba(20,30,38, 0.9), rgba(24,44,54, 0.8)),
 url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
   <header class="container">
-    <hgroup role="group" aria-labelledby="title" aria-describedby="subtitle"> 
-      <h1 id="title">{{.Site.Params.homepage.heroTitle}}</h1>
-      <h2 id="subtitle">{{.Site.Params.homepage.heroDescription}}</h2>
-    </hgroup> <!-- hgroup is not supported by html5, but must remain due to styling reasons-->
+    <hgroup role="group" aria-labelledby="index1" aria-describedby="index2"> 
+      <h1 id="index1">{{.Site.Params.homepage.heroTitle}}</h1>
+      <h2 id="index2">{{.Site.Params.homepage.heroDescription}}</h2>
+    </hgroup><!-- hgroup is not supported by html5, but must remain due to styling reasons-->
     <div>
       <a
         class="hero-buttons"
@@ -25,12 +25,23 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
 </section>
 {{ end }}
 
+<!--
+<section>
+  <h2 class="text-center">Metal mit Bier und Herz</h2>
+    
+  <div class="container">
+    <p>
+      Dieser Text ist ein Platzhaltertext und wird später gegen ein passendes Dokument ausgetauscht. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war Lorem Ipsum, hinaus zu gehen in die weite Grammatik. Der große Oxmox riet ihr davon ab, da es dort wimmele von bösen Kommata, wilden Fragezeichen und hinterhältigen Semikoli, doch das Blindtextchen ließ sich nicht beirren. Es packte seine sieben Versalien, schob sich sein Initial in den Gürtel und machte sich auf den Weg. Als es die ersten Hügel des Kursivgebirges erklommen hatte, warf es einen letzten Blick auf die hier dargestellte Seite.
+    </p>
+  </div>
+</section>
+-->
 
 {{- if not (.Site.Params.homepage.disableBlogSection) }}
 <section>
-  <hgroup class="text-center" role="group" aria-labelledby="subtitle" aria-describedby="subsubtitle">
-    <h2 id="subtitle">{{.Site.Params.homepage.blogTitle}}</h2>
-    <h3 id="subsubtitle">{{.Site.Params.homepage.blogDescription}}</h3>
+  <hgroup class="text-center" role="group" aria-labelledby="index3" aria-describedby="index4">
+    <h2 id="index3">{{.Site.Params.homepage.blogTitle}}</h2>
+    <h3 id="index4">{{.Site.Params.homepage.blogDescription}}</h3>
   </hgroup><!-- hgroup is not supported by html5, but must remain due to styling reasons-->
   <div class="container">
     <div class="grid grid-post">
@@ -47,9 +58,9 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
             >
             {{ end }}
           </figure> -->
-          <hgroup role="group" aria-labelledby="subsubtitle" aria-describedby="description">
-            <h3 id="subsubtitle">{{ .Title }}</h3>
-            <hr id="description" />
+          <hgroup role="group" aria-labelledby="index5" aria-describedby="index6">
+            <h3 id="index5">{{ .Title }}</h3>
+            <hr id="index6" />
             <p>
               {{ .Description | plainify | htmlUnescape | truncate 100 }}{{ if
               .Truncated }}...{{ end }}
@@ -69,9 +80,9 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
 
 {{- if not (.Site.Params.homepage.disableAboutSection) }}
 <section>
-  <hgroup class="text-center" role="group" aria-labelledby="subtitle" aria-describedby="subsubtitle">
-    <h2 id="subtitle">{{.Site.Params.homepage.aboutTitle}}</h2>
-    <h3 id="subsubtitle">{{.Site.Params.homepage.aboutDescription}}</h3>
+  <hgroup class="text-center" role="group" aria-labelledby="index7" aria-describedby="index8">
+    <h2 id="index7">{{.Site.Params.homepage.aboutTitle}}</h2>
+    <h3 id="index8">{{.Site.Params.homepage.aboutDescription}}</h3>
   </hgroup><!-- hgroup is not supported by html5, but must remain due to styling reasons-->
   <div class="container">
     <div class="grid">
@@ -93,14 +104,14 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
 
 {{- if not (.Site.Params.homepage.disablePortfolioSection) }}
 <section>
-  <hgroup class="text-center" role="group" aria-labelledby="subtitle" aria-describedby="subsubtitle">
-    <h2 id="subtitle">{{.Site.Params.homepage.portfolioTitle}}</h2>
-    <h3 id="subsubtitle">{{.Site.Params.homepage.portfolioDescription}}</h3>
+  <hgroup class="text-center" role="group" aria-labelledby="index9" aria-describedby="index10">
+    <h2 id="index9">{{.Site.Params.homepage.portfolioTitle}}</h2>
+    <h3 id="index10">{{.Site.Params.homepage.portfolioDescription}}</h3>
   </hgroup><!-- hgroup is not supported by html5, but must remain due to styling reasons-->
   <div class="container">
     <div class="grid grid-post" style="display: flex;   justify-content: center;"> <!-- ToDo: entferne style, wenn mehere da hinkommen -->
       {{ range .Site.Params.homepage.portfolio }}
-      <a class="portfolio-post" href="{{.websiteUrl}}">
+      <a class="portfolio-post"><!--href="{{.websiteUrl}}" Einsetzen in Tag, wenn Portfolio da ist-->
         <figure>
           <img
             src="{{.imageUrl}}"
@@ -109,9 +120,9 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
             alt="{{.alt}}"
           ><!-- layout="responsive" not allowed for img tags -->
         </figure>
-        <hgroup class="text-center">
+        <!--  <hgroup class="text-center">
           <h4>{{.description}}</h4>
-        </hgroup>
+        </hgroup> ToDo einsetzen, wenn Musik da ist -->
       </a>
       {{ end }}
     </div>

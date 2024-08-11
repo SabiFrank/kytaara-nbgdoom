@@ -1,12 +1,12 @@
 {{ define "main" }}
 <div class="min-h-80 contact-form">
   <div class="container">
-    <hgroup>
+    <hgroup role="group" aria-labelledby="contact1" aria-describedby="contact2">
       {{ partial "breadcrumbs.html" . }}
-      <div style="margin-top:1em"></div>
+      <div id="contact1" style="margin-top:1em"></div>
       <h1>{{ .Title }}</h1>
-      <h2>{{ .Description }}</h2>
-    </hgroup>
+      <h2 id="contact2">{{ .Description }}</h2>
+    </hgroup><!-- hgroup is not supported by html5, but must remain due to styling reasons-->
 
     <div class="container">
      <p>Egal ob über das Kontaktformular, <a href="https://www.instagram.com/kytaara_doom/">Social Media</a> oder via <a href="mailto:kytaara@gmail.com">E-Mail</a>, wir freuen uns auf deine Nachricht! Wir antworten so früh wie möglich.</p>

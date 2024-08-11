@@ -11,7 +11,7 @@ ShowBreadCrumbs: false
 ---
 
 &nbsp;  
-{{< gallery-slider dir="/uploads/live1/" auto-slide="3000" width="clamp(300px, 80%, 400px)" height="500px" >}}
+{{< gallery-slider dir="/uploads/live1/" auto-slide="3000" width="80%" height="500px" >}}
 Fotografie: [Subkulturverein](https://www.instagram.com/subkulturverein/?utm_source=ig_embed), [Maximilian Körner](mailto:foto@subkulturverein.de) und Privatperson, [Sabrina Frank](https://www.kunstmitgraphit.de/) (1. & 2. Bild der Slideshow)  
 
 
@@ -25,7 +25,7 @@ Kunstverein, Z-Bau, Nürnberg
 17.05.2024 | 20:00  
 
 **Bands**  
-Kytaara, Our Silent Voice, Coexist  
+Kytaara, [Our Silent Voice](https://www.oursilentvoice.net/), [Coexist](https://www.instagram.com/coexist_music/?igsh=MWJvZG81b3pzYmhuMw)  
 
 **Instagram**  
 {{< instagram C7G-PUvtI-e >}}  

@@ -1,12 +1,13 @@
 {{ define "main" }}
 <div class="container">
-  <hgroup>
+  <hgroup role="group" aria-labelledby="single1">
     {{ partial "breadcrumbs.html" . }}
-    <div style="margin-top:1em"></div>
+    <div id="single1" style="margin-top:1em"></div>
     <h1>{{ .Title }}</h1> 
     <!-- {{- partial "post_meta.html" . -}} -->
     <p>{{ .Description }}</p>
-  </hgroup>
+  </hgroup><!-- hgroup is not supported by html5, but must remain due to styling reasons-->
+
   {{- if .Params.tags }} {{- range ($.GetTerms "tags") }}
   <a href="{{ .Permalink }}">
     <kbd>{{ .LinkTitle }}</kbd>

@@ -3,9 +3,9 @@
 <section class="hero" style="background-image:linear-gradient(rgba(20,30,38, 0.9), rgba(24,44,54, 0.8)),
 url('{{.Params.Image}}');">
   <header class="container">
-    <hgroup>
-      <h1>{{ .Title }}</h1>
-      <h2>{{ .Description }}</h2>
+    <hgroup role="group" aria-labelledby="list1" aria-describedby="list2">
+      <h1 id="list1">{{ .Title }}</h1>
+      <h2 id="list2">{{ .Description }}</h2>
     </hgroup>
   </header>
 </section>
@@ -28,13 +28,12 @@ url('{{.Params.Image}}');">
             src="{{.Params.Cover.Image | absURL}}"
             width="600"
             height="400"
-            layout="responsive"
-          >
+          > <!--layout="responsive" in img tag not allowed-->
         <!--</figure>-->
         {{end}}
-        <hgroup>
-          <h3>{{ .Title }}</h3>
-          <hr />
+        <hgroup role="group" aria-labelledby="list3" aria-describedby="list4">
+          <h3 id="list3">{{ .Title }}</h3>
+          <hr id="list4"/>
           <p>
             {{ .Description | plainify | htmlUnescape | truncate 100 }}{{ if
             .Truncated }}...{{ end }}
