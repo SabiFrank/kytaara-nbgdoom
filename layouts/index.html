@@ -3,9 +3,9 @@
 <section class="hero" style="background-image:linear-gradient(rgba(20,30,38, 0.9), rgba(24,44,54, 0.8)),
 url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
   <header class="container">
-    <hgroup role="group" aria-labelledby="title" aria-describedby="subtitle"> 
-      <h1 id="title">{{.Site.Params.homepage.heroTitle}}</h1>
-      <h2 id="subtitle">{{.Site.Params.homepage.heroDescription}}</h2>
+    <hgroup role="group" aria-labelledby="index1" aria-describedby="index2"> 
+      <h1 id="index1">{{.Site.Params.homepage.heroTitle}}</h1>
+      <h2 id="index2">{{.Site.Params.homepage.heroDescription}}</h2>
     </hgroup> <!-- hgroup is not supported by html5, but must remain due to styling reasons-->
     <div>
       <a
@@ -28,9 +28,9 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
 
 {{- if not (.Site.Params.homepage.disableBlogSection) }}
 <section>
-  <hgroup class="text-center" role="group" aria-labelledby="subtitle1" aria-describedby="subsubtitle">
-    <h2 id="subtitle1">{{.Site.Params.homepage.blogTitle}}</h2>
-    <h3 id="subsubtitle">{{.Site.Params.homepage.blogDescription}}</h3>
+  <hgroup class="text-center" role="group" aria-labelledby="index3" aria-describedby="index4">
+    <h2 id="index3">{{.Site.Params.homepage.blogTitle}}</h2>
+    <h3 id="index4">{{.Site.Params.homepage.blogDescription}}</h3>
   </hgroup><!-- hgroup is not supported by html5, but must remain due to styling reasons-->
   <div class="container">
     <div class="grid grid-post">
@@ -47,9 +47,9 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
             >
             {{ end }}
           </figure> -->
-          <hgroup role="group" aria-labelledby="subsubtitle2" aria-describedby="description1">
-            <h3 id="subsubtitle2">{{ .Title }}</h3>
-            <hr id="description1" />
+          <hgroup role="group" aria-labelledby="index5" aria-describedby="index6">
+            <h3 id="index5">{{ .Title }}</h3>
+            <hr id="index6" />
             <p>
               {{ .Description | plainify | htmlUnescape | truncate 100 }}{{ if
               .Truncated }}...{{ end }}
@@ -69,9 +69,9 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
 
 {{- if not (.Site.Params.homepage.disableAboutSection) }}
 <section>
-  <hgroup class="text-center" role="group" aria-labelledby="subtitle3" aria-describedby="subsubtitle2">
-    <h2 id="subtitle3">{{.Site.Params.homepage.aboutTitle}}</h2>
-    <h3 id="subsubtitle2">{{.Site.Params.homepage.aboutDescription}}</h3>
+  <hgroup class="text-center" role="group" aria-labelledby="index7" aria-describedby="index8">
+    <h2 id="index7">{{.Site.Params.homepage.aboutTitle}}</h2>
+    <h3 id="index8">{{.Site.Params.homepage.aboutDescription}}</h3>
   </hgroup><!-- hgroup is not supported by html5, but must remain due to styling reasons-->
   <div class="container">
     <div class="grid">
@@ -93,9 +93,9 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
 
 {{- if not (.Site.Params.homepage.disablePortfolioSection) }}
 <section>
-  <hgroup class="text-center" role="group" aria-labelledby="subtitle4" aria-describedby="subsubtitle3">
-    <h2 id="subtitle4">{{.Site.Params.homepage.portfolioTitle}}</h2>
-    <h3 id="subsubtitle3">{{.Site.Params.homepage.portfolioDescription}}</h3>
+  <hgroup class="text-center" role="group" aria-labelledby="index9" aria-describedby="index10">
+    <h2 id="index9">{{.Site.Params.homepage.portfolioTitle}}</h2>
+    <h3 id="index10">{{.Site.Params.homepage.portfolioDescription}}</h3>
   </hgroup><!-- hgroup is not supported by html5, but must remain due to styling reasons-->
   <div class="container">
     <div class="grid grid-post" style="display: flex;   justify-content: center;"> <!-- ToDo: entferne style, wenn mehere da hinkommen -->
