@@ -95,7 +95,7 @@ data-theme = "dark"
 
     [[params.homepage.portfolio]]
     imageUrl = "/uploads/base-shoot.webp"
-    #description = ""
+    description = "Moritz am Bass"
 
     #[[params.homepage.portfolio]]
     #imageUrl = "/uploads/base-shoot.webp"
