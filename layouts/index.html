@@ -3,10 +3,10 @@
 <section class="hero" style="background-image:linear-gradient(rgba(20,30,38, 0.9), rgba(24,44,54, 0.8)),
 url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
   <header class="container">
-    <hgroup>
-      <h1>{{.Site.Params.homepage.heroTitle}}</h1>
-      <h2>{{.Site.Params.homepage.heroDescription}}</h2>
-    </hgroup>
+    <hgroup role="group" aria-labelledby="title" aria-describedby="subtitle"> 
+      <h1 id="title">{{.Site.Params.homepage.heroTitle}}</h1>
+      <h2 id="subtitle">{{.Site.Params.homepage.heroDescription}}</h2>
+    </hgroup> <!-- hgroup is not supported by html5, but must remain due to styling reasons-->
     <div>
       <a
         class="hero-buttons"
@@ -28,34 +28,33 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
 
 {{- if not (.Site.Params.homepage.disableBlogSection) }}
 <section>
-  <hgroup class="text-center">
-    <h2>{{.Site.Params.homepage.blogTitle}}</h2>
-    <h3>{{.Site.Params.homepage.blogDescription}}</h3>
-  </hgroup>
+  <hgroup class="text-center" role="group" aria-labelledby="subtitle" aria-describedby="subsubtitle">
+    <h2 id="subtitle">{{.Site.Params.homepage.blogTitle}}</h2>
+    <h3 id="subsubtitle">{{.Site.Params.homepage.blogDescription}}</h3>
+  </hgroup><!-- hgroup is not supported by html5, but must remain due to styling reasons-->
   <div class="container">
     <div class="grid grid-post">
       {{ $paginator := .Paginate (where site.RegularPages  "Type" "in" site.Params.mainSections | first
       3) }} {{ range $paginator.Pages }}
       <a href="{{ .RelPermalink }}">
         <article class="text-center">
-        {{if .Params.Cover.Image}}
+        <!-- {{if .Params.Cover.Image}}
           <figure>
             <img
               src="{{.Params.Cover.Image | absURL}}"
               width="600"
               height="400"
-              layout="responsive"
-            ></img>
+            >
             {{ end }}
-          </figure>
-          <hgroup>
-            <h3>{{ .Title }}</h3>
-            <hr />
+          </figure> -->
+          <hgroup role="group" aria-labelledby="subsubtitle" aria-describedby="description">
+            <h3 id="subsubtitle">{{ .Title }}</h3>
+            <hr id="description" />
             <p>
               {{ .Description | plainify | htmlUnescape | truncate 100 }}{{ if
               .Truncated }}...{{ end }}
             </p>
-          </hgroup>
+          </hgroup><!-- hgroup is not supported by html5, but must remain due to styling reasons-->         
           <small> {{- partial "post_meta.html" . -}} </small>
         </article>
       </a>
@@ -70,20 +69,19 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
 
 {{- if not (.Site.Params.homepage.disableAboutSection) }}
 <section>
-  <hgroup class="text-center">
-    <h2>{{.Site.Params.homepage.aboutTitle}}</h2>
-    <h3>{{.Site.Params.homepage.aboutDescription}}</h3>
-  </hgroup>
+  <hgroup class="text-center" role="group" aria-labelledby="subtitle" aria-describedby="subsubtitle">
+    <h2 id="subtitle">{{.Site.Params.homepage.aboutTitle}}</h2>
+    <h3 id="subsubtitle">{{.Site.Params.homepage.aboutDescription}}</h3>
+  </hgroup><!-- hgroup is not supported by html5, but must remain due to styling reasons-->
   <div class="container">
     <div class="grid">
       <div class="container" style="text-align: center">
         <img
           src="{{.Site.Params.homepage.aboutImgUrl}}"
-          alt="{{.Site.Params.author}}"
+          alt="Die Bandmitglieder von Kytaara mit den Bandbohnen beim Feierabendbier"
           width="300"
           height="450"
-          layout="intrinsic"
-        ></img>
+        ><!-- layout="intrinsic" not allowed for img tags -->
       </div>
       <div class="container" style="text-align: left;">
         {{.Site.Params.homepage.aboutContent}}
@@ -95,22 +93,21 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
 
 {{- if not (.Site.Params.homepage.disablePortfolioSection) }}
 <section>
-  <hgroup class="text-center">
-    <h2>{{.Site.Params.homepage.portfolioTitle}}</h2>
-    <h3>{{.Site.Params.homepage.portfolioDescription}}</h3>
-  </hgroup>
+  <hgroup class="text-center" role="group" aria-labelledby="subtitle" aria-describedby="subsubtitle">
+    <h2 id="subtitle">{{.Site.Params.homepage.portfolioTitle}}</h2>
+    <h3 id="subsubtitle">{{.Site.Params.homepage.portfolioDescription}}</h3>
+  </hgroup><!-- hgroup is not supported by html5, but must remain due to styling reasons-->
   <div class="container">
     <div class="grid grid-post" style="display: flex;   justify-content: center;"> <!-- ToDo: entferne style, wenn mehere da hinkommen -->
       {{ range .Site.Params.homepage.portfolio }}
       <a class="portfolio-post" href="{{.websiteUrl}}">
-        <figure >
+        <figure>
           <img
             src="{{.imageUrl}}"
             width="600"
             height="400"
-            layout="responsive"
             alt="{{.alt}}"
-          ></img>
+          ><!-- layout="responsive" not allowed for img tags -->
         </figure>
         <hgroup class="text-center">
           <h4>{{.description}}</h4>
