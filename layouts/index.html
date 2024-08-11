@@ -100,7 +100,7 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
   <div class="container">
     <div class="grid grid-post" style="display: flex;   justify-content: center;"> <!-- ToDo: entferne style, wenn mehere da hinkommen -->
       {{ range .Site.Params.homepage.portfolio }}
-      <a class="portfolio-post" href="{{.websiteUrl}}">
+      <a class="portfolio-post"><!--href="{{.websiteUrl}}" Einsetzen in Tag, wenn Portfolio da ist-->
         <figure>
           <img
             src="{{.imageUrl}}"
@@ -109,9 +109,9 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
             alt="{{.alt}}"
           ><!-- layout="responsive" not allowed for img tags -->
         </figure>
-        <hgroup class="text-center">
+        <!--  <hgroup class="text-center">
           <h4>{{.description}}</h4>
-        </hgroup>
+        </hgroup> ToDo einsetzen, wenn Musik da ist -->
       </a>
       {{ end }}
     </div>
