@@ -14,5 +14,5 @@
 </article>
 
 {{ "<!-- Cookies Script -->" | safeHTML }}
-{{ $cookies := resources.Get "js/cookie.js" | minify}}
-<script async src="{{ $cookies.Permalink }}" layout="container"></script>
+{{ $cookies := resources.Get "js/cookie.js" | minify }}
+<script async src="{{ $cookies.Permalink }}" {{ if .Site.Params.layout }}layout="{{ .Site.Params.layout }}"{{ end }}></script>
