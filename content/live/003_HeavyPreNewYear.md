@@ -1,7 +1,7 @@
 ---
 title: "Heavy Pre New Year"
 date: "2024-12-30"
-publishdate: "2024-12-14"
+publishdate: "2024-12-13"
 description: "End of the Year Live Show"
 tags: ["nürnberg", "blackbox.", "holidayevent"]
 categories: ["live"]
