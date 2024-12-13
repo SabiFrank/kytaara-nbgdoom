@@ -26,3 +26,7 @@ ShowBreadCrumbs: false
 [Coexist](https://www.instagram.com/coexist_music/?igsh=MWJvZG81b3pzYmhuMw) &
 [Feeding Zebras](https://feeding-zebras.de/) &
 Kytaara 
+
+**Eintritt**
+Vorverkaufskasse: 10€
+Abendkasse: 15€
