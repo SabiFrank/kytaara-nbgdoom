@@ -2,7 +2,7 @@
 title: "Heavy Pre New Year"
 date: "2024-12-30"
 publishdate: "2024-12-13"
-description: "Feiert mit uns in das neue Jahr mit der End of the Year Live-Show in der blackbox."
+description: "Feiert mit uns das Jahresende mit der Heavy Pre New Year Live-Show in der blackbox."
 tags: ["nürnberg", "blackbox.", "holidayevent"]
 categories: ["live"]
 ShowRelated: false
