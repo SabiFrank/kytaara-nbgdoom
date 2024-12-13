@@ -27,6 +27,6 @@ ShowBreadCrumbs: false
 [Feeding Zebras](https://feeding-zebras.de/) &
 Kytaara 
 
-**Eintritt**
-Vorverkaufskasse: 10€
-Abendkasse: 15€
+**Eintritt**  
+Vorverkaufskasse: 10€  
+Abendkasse: 15€  
