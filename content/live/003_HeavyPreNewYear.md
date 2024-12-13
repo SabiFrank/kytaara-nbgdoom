@@ -26,6 +26,3 @@ ShowBreadCrumbs: false
 [Coexist](https://www.instagram.com/coexist_music/?igsh=MWJvZG81b3pzYmhuMw) &
 [Feeding Zebras](https://feeding-zebras.de/) &
 Kytaara 
-
-**Instagram**  
-{{< instagram C9XBKRUuuq7 >}}  
