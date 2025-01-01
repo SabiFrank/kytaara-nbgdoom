@@ -12,6 +12,7 @@ ShowBreadCrumbs: false
 
 &nbsp;  
 {{< gallery-slider dir="/uploads/live3/" auto-slide="3000" width="80%" height="400px">}}
+Fotografie: PKytaara
 
 **Veranstalter**  
 [Coexist](https://www.instagram.com/coexist_music/?igsh=MWJvZG81b3pzYmhuMw)
@@ -30,3 +31,7 @@ Kytaara
 **Eintritt**  
 Vorverkaufskasse: 10€  
 Abendkasse: 15€  
+
+**YouTube**  
+{{< youtube s7earEUDdP0 >}}  
+{{< youtube IjeVF-aRcCc >}}  
