@@ -14,7 +14,7 @@ ShowBreadCrumbs: false
 {{< gallery-slider dir="/uploads/live4/" auto-slide="3000" width="80%" height="500px" >}}
 
 **Veranstalter**  
-[Subkulturverein (Metal goes international)](https://www.instagram.com/subkulturverein/?utm_source=ig_embed)
+[Subkulturverein](https://www.subkulturverein.de/)[(Metal goes international)](https://www.instagram.com/subkulturverein/p/DIbcGyuiSkQ/)
 
 **Location**  
 [KulturKellerei](https://kultur-kellerei.de/), Königstraße 93, 90402 Nürnberg
@@ -25,7 +25,7 @@ ShowBreadCrumbs: false
 **Bands**  
 [A Thousand Sufferings](https://athousandsufferings.com/) &  
 Kytaara &  
-t.b.a.
+[Dying Men](https://www.instagram.com/dyingmen.band/)
 
 **Eintritt**  
 Abendkasse: 15€  
