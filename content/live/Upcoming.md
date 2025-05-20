@@ -1,6 +1,6 @@
 ---
 title: "Upcoming"
-date: "2024-XX-XX"
+date: "2025-08-18"
 #publishdate: "2024-XX-XX"
 description: "Hier werden bald mehr Auftritte zu finden sein"
 categories: ["live"]
@@ -14,7 +14,7 @@ ShowBreadCrumbs: false
 TBD
 
 **Location**  
-TBD 
+Soft Spot  
 
 **Datum**  
 TBD 
