@@ -11,7 +11,6 @@ ShowBreadCrumbs: false
 ---
 
 &nbsp;  
-{{< gallery-slider dir="/uploads/live5/" auto-slide="3000" width="80%" height="500px" >}}
 
 **Veranstalter**  
 [FUZZ over Nuernberg](https://www.instagram.com/fuzzovernuernberg/?hl=de)
