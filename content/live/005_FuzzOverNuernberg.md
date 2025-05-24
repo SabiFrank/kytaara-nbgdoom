@@ -11,19 +11,20 @@ ShowBreadCrumbs: false
 ---
 
 &nbsp;  
+{{< gallery-slider dir="/uploads/live5/" auto-slide="3000" width="80%" height="500px" >}}  
 
 **Veranstalter**  
-[FUZZ over Nuernberg](https://www.instagram.com/fuzzovernuernberg/?hl=de)
+[FUZZ over Nuernberg](https://www.instagram.com/fuzzovernuernberg/?hl=de)  
 
 **Location**  
-[Roter Salon im Z-Bau](https://z-bau.com/), Frankenstraße 200, 90461 Nürnberg
+[Roter Salon im Z-Bau](https://z-bau.com/), Frankenstraße 200, 90461 Nürnberg  
 
 **Datum**  
-20.06.2025 | Einlass: TBD
+20.06.2025 | Einlass: 20:00  
 
 **Bands**  
 [Menk](https://www.instagram.com/menkband/) &  
 Kytaara  
 
 **Eintritt**  
-Abendkasse: TBD  
+Abendkasse: 15-20 €  (Altersbegrenzung: Ab 16 Jahre)  
