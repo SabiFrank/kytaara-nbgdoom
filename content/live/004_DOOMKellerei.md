@@ -12,6 +12,7 @@ ShowBreadCrumbs: false
 
 &nbsp;  
 {{< gallery-slider dir="/uploads/live4/" auto-slide="3000" width="80%" height="500px" >}}
+Fotografie: [strongandcutephotography](https://www.instagram.com/strongandcutephotography/)
 
 **Veranstalter**  
 [Subkulturverein](https://www.subkulturverein.de/)[(Metal goes international)](https://www.instagram.com/subkulturverein/p/DIbcGyuiSkQ/)
