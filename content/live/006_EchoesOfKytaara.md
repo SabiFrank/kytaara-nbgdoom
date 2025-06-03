@@ -3,7 +3,7 @@ title: "Echoes of Doom x Kytaara"
 date: "2025-08-18"
 publishdate: "2025-06-03"
 description: "Echoes of Doom mit Kytaara im Soft Spot"
-tags: ["nürnberg", "Z-Bau", "Soft Spot", "doom", "Echoes of Doom"]
+tags: ["nürnberg", "Soft Spot", "doom", "Echoes of Doom"]
 categories: ["live"]
 ShowRelated: false
 showToc: false
