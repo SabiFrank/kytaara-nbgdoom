@@ -1,7 +1,7 @@
 ---
 title: "Upcoming"
-date: "2025-08-18"
-publishdate: "2025-05-18"
+date: "2025-09-26"
+publishdate: "2025-06-03"
 description: "Hier werden bald mehr Auftritte zu finden sein"
 categories: ["live"]
 ShowRelated: false
@@ -14,7 +14,7 @@ ShowBreadCrumbs: false
 TBD
 
 **Location**  
-Soft Spot  
+Kunstverein  
 
 **Datum**  
 TBD 
