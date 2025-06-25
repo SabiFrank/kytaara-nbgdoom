@@ -2,8 +2,8 @@
 title: "Echoes of Doom x Kytaara"
 date: "2025-08-18"
 publishdate: "2025-06-03"
-description: "Echoes of Doom mit Kytaara im Soft Spot"
-tags: ["nürnberg", "Soft Spot", "doom", "Echoes of Doom"]
+description: "Echoes of Doom mit Kytaara im Zentralcafe"
+tags: ["nürnberg", "zentralcafe", "doom", "echoes of doom", "Kaya e.V."]
 categories: ["live"]
 ShowRelated: false
 showToc: false
@@ -17,13 +17,13 @@ ShowBreadCrumbs: false
 [Levitain](https://levitain.bandcamp.com/album/demo)  
 
 **Location**  
-[Soft Spot im Künstler*innenhaus](https://www.instagram.com/softspotnbg/?hl=de), Königstormauer 7, 90402 Nürnberg  
+[Zentralcafe des Kaya e.V. im Künstler*innenhaus](https://www.zentralcafe.com/), Königstormauer 7, 90402 Nürnberg  
 
 **Datum**  
 18.08.2025 | Einlass: 19:00 | Beginn: 19:30
 
 **Bands**  
-[TFNRSH](https://www.tfnrsh.de/) &  
+[Tiefenrausch](https://www.tfnrsh.de/) &  
 Cringer (Stoner Rock aus Nürnberg) &  
 Kytaara  
 
