@@ -19,7 +19,7 @@ Fotografie: [Subkulturverein](https://www.instagram.com/subkulturverein/?utm_sou
 SKV, [Metalnight](https://www.kunstverein-nuernberg.de/en/events/skv-metal/)
 
 **Location**  
-Kunstverein, Z-Bau, Nürnberg  
+[Kunstverein, Z-Bau, Nürnberg](https://www.kunstverein-nuernberg.de/), Frankenstraße 200, 90461 Nürnberg  
 
 **Datum**  
 17.05.2024 | 20:00  
