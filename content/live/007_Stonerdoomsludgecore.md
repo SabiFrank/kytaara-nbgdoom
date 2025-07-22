@@ -1,6 +1,6 @@
 ---
-title: "Echoes of Doom x Kytaara"
-date: "2025-08-18"
+title: "LowFrequencyAssaults x Kytaara"
+date: "2025-09-26"
 publishdate: "2025-06-03"
 description: "Stonerdoomsludgecore mit Kytaara im Kunstverein Nürnberg"
 tags: ["nürnberg", "LowFrequencyAssaults", "Z-Bau", "doom"]
