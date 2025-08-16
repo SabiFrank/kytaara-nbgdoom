@@ -8,7 +8,7 @@ ShowBreadCrumbs: false
 ---
 
 &nbsp;  
-### Wir sind Kytaara.  
+### Live, laugh, doom
 
 Fünf Leute machen diese Band aus: Unsere Sänger und Gitarristen Philipp und Marc, an der Sologitarre Markus, unser Sänger und Bassist Moritz und Theresa an den Drums. 
 
