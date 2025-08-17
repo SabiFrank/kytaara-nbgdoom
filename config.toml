@@ -31,7 +31,7 @@ keepWhitespace = false
 [params]
 env = "production"
 author = "Sabrina Frank"
-description = "Kytaara ist eine junge Band aus Nürnberg, die Einflüsse aus den Genres Stoner, Doom und Core mit treibenden Riffs und spährischen Klangteppichen vereint. Die Band praktiziert frei nach dem Motto \"Live, laugh, doom\"."
+description = "Kytaara ist eine junge Band aus Nürnberg, die Einflüsse aus den Genres Stoner, Doom und Core mit treibenden Riffs und spährischen Klangteppichen vereint."
 math = false
 images = [ "/uploads/og.webp" ]
 comments = false
