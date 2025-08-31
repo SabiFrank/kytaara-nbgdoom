@@ -53,6 +53,7 @@ data-theme = "dark"
   [privacy.youTube]
     disable = false
     privacyEnhanced = false
+#https://gohugo.io/shortcodes/youtube/
 
 #[params.analytics.google]
 #[params.analytics.yandex]
