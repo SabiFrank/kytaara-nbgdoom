@@ -34,4 +34,3 @@ Abendkasse: 15€
 
 **YouTube**  
 {{< youtube s7earEUDdP0 >}}  
-{{< youtube IjeVF-aRcCc >}}  

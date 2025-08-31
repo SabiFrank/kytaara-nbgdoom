@@ -49,6 +49,11 @@ ShowBreadCrumbs = true
 dateFormat = "02.01.2006"
 data-theme = "dark"
 
+[privacy]
+  [privacy.youTube]
+    disable = false
+    privacyEnhanced = false
+
 #[params.analytics.google]
 #[params.analytics.yandex]
 #[params.analytics.bing]

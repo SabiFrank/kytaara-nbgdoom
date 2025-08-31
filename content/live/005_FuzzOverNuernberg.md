@@ -29,3 +29,6 @@ Kytaara
 
 **Eintritt**  
 Abendkasse: 15-20 €  (Altersbegrenzung: Ab 16 Jahre)  
+
+**YouTube**  
+{{< youtube x9T2LKeJrWs1ehIa >}}  
