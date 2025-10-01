@@ -12,9 +12,10 @@ ShowBreadCrumbs: false
 
 &nbsp;  
 {{< gallery-slider dir="/uploads/live7/" auto-slide="3000" width="80%" height="500px" >}}  
+Fotografie: [Marco Wenzel](https://der-wenz.de/blog/2025-09-30-raging-sloth-lusca-kytaara-kv.html)  
 
 **Veranstalter**  
-[LowFrequencyAssaults](https://low-frequency-assaults.blogspot.com/)
+[LowFrequencyAssaults](https://low-frequency-assaults.blogspot.com/)  
 
 **Location**  
 [Kunstverein, Z-Bau, Nürnberg](https://www.kunstverein-nuernberg.de/), Frankenstraße 200, 90461 Nürnberg  

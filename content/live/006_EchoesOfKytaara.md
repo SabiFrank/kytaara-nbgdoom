@@ -12,6 +12,7 @@ ShowBreadCrumbs: false
 
 &nbsp;  
 {{< gallery-slider dir="/uploads/live6/" auto-slide="3000" width="80%" height="500px" >}}  
+Fotografie: Kytaara  
 
 **Veranstalter**  
 [Levitain](https://levitain.bandcamp.com/album/demo)  
