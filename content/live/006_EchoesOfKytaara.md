@@ -24,7 +24,7 @@ ShowBreadCrumbs: false
 
 **Bands**  
 [Tiefenrausch](https://www.tfnrsh.de/) &  
-Cringer (Stoner Rock aus Nürnberg) &  
+[Blacktar](https://www.backstagepro.de/blacktar) &  
 Kytaara  
 
 **Eintritt**  
