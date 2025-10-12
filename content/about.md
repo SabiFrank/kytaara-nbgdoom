@@ -51,7 +51,8 @@ Fotografie: Mareta
 alt="Sabrina | Gesang" 
 title="Sabrina | Gastsängerin, Websiteverwaltung" >}}  
 
-Fotografie: [strongandcutephotography](https://www.instagram.com/strongandcutephotography/)
+Fotografie: [strongandcutephotography](https://www.instagram.com/strongandcutephotography/)  
+
 
 
 ### Diskografie
