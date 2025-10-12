@@ -49,7 +49,7 @@ Fotografie: Mareta
 
 {{< portrait src="/uploads/bio/Sabi.webp"
 alt="Sabrina | Gesang" 
-title="Sabrina | Gastsänngerin, Websiteverwaltung" >}}  
+title="Sabrina | Gastsängerin, Websiteverwaltung" >}}  
 
 Fotografie: [strongandcutephotography](https://www.instagram.com/strongandcutephotography/)
 
