@@ -10,14 +10,18 @@ ShowBreadCrumbs: false
 &nbsp;  
 ### Wir sind Kytaara.
 
-Fünf Leute machen diese Band aus: Unsere Sänger und Gitarristen Philipp und Marc, an der Sologitarre Markus, unser Sänger und Bassist Moritz und Theresa an den Drums. 
+Fünf Leute machen diese Band aus: Unsere Sänger und Gitarristen Philipp und Marc, an der Sologitarre Markus, unser Sänger und Bassist Moritz und Theresa an den Drums. Außerdem in tatkräftiger Unterstützung für Website, Gastgesang und Organisation: Sabrina.
 
 {{< gallery-slider dir="/uploads/bio/band/" auto-slide="3000" width="80%" height="350px" >}}  
 
 Fotografie: Mareta
 &nbsp;  
 
-Nachdem wir seit der Gründung 2020 in Lauf viel geprobt haben, sind wir heiß darauf, unsere Musik live zu spielen und weiterhin das zu tun, was uns am meisten Spaß macht: Lieder schreiben, Bier trinken und Lärm machen.
+Zusammengefunden haben wir uns erstmals 2019 in Lauf a.d. Pegnitz, damals noch mit Lorenz an den Drums. 
+2021 kam zusammen mit den Bandbohnen der Umzug in den neuen Proberaum in der Sigmundstraße Nürnberg, wo auch der Bandname Kytaara entstand. 
+2022 verließ Lorenz die Band und es ging Pandemiebedingt langsamer voran. Unsere jetzige Drummerin Theresa stieß 2023 zu uns; in diesem Jahr erfolgte auch der Umzug in einen eigenen Proberaum.
+2024 hatten wir schließlich unseren ersten gemeinsamen Auftritt in Nürnberg. Im gleichen Jahr schloss sich Sabrina als Unterstützung für Website und Gesang an.
+
 
 ### Die Bandmitglieder  
 
@@ -41,4 +45,18 @@ title="Moritz | Bass & Vocals">}}
 alt="Theresa | Drums" 
 title="Theresa | Drums" >}}  
 
+{{< portrait src="/uploads/bio/Sabi.webp"
+alt="Sabrina | Gesang" 
+title="Sabrina | Gastsänngerin, Websiteverwaltung" >}} 
+
 Fotografie: Mareta
+
+### Diskografie
+
+* 2019 Sweet Smells the Rotten Flesh, Death Mask
+* 2020 Apogaeum, Grief
+* 2021 Lust
+* 2022 Toxic Mist
+* 2024 Failed Exorcism
+* 2025 Gone  
+
