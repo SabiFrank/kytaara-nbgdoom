@@ -45,11 +45,14 @@ title="Moritz | Bass & Vocals">}}
 alt="Theresa | Drums" 
 title="Theresa | Drums" >}}  
 
+Fotografie: Mareta  
+
 {{< portrait src="/uploads/bio/Sabi.webp"
 alt="Sabrina | Gesang" 
-title="Sabrina | Gastsänngerin, Websiteverwaltung" >}} 
+title="Sabrina | Gastsänngerin, Websiteverwaltung" >}}  
 
-Fotografie: Mareta
+Fotografie: [strongandcutephotography](https://www.instagram.com/strongandcutephotography/)
+
 
 ### Diskografie
 
