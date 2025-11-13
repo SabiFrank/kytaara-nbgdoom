@@ -9,11 +9,11 @@
     </hgroup><!-- hgroup is not supported by html5, but must remain due to styling reasons-->
 
     <div class="container">
-     <p>Egal ob über das Kontaktformular, <a href="https://www.instagram.com/kytaara_doom/">Social Media</a> oder via <a href="mailto:kytaara@gmail.com">E-Mail</a>, wir freuen uns auf deine Nachricht! Wir antworten so früh wie möglich.</p>
+     <p>Egal ob über <a href="https://www.instagram.com/kytaara_doom/">Social Media</a> oder via <a href="mailto:kytaara@gmail.com">E-Mail</a>, wir freuen uns auf deine Nachricht! Wir antworten so früh wie möglich.</p>
     </div>
 
-    <form name="contact" method="POST" action={{ .Site.Params.contactFormAction | relURL }} >
-      <!-- <input name="_redirect" type="hidden" id="name" value={{"/thanks/" | absURL}}> -->
+    <!-- <form name="contact" method="POST" action={{ .Site.Params.contactFormAction | relURL }} >
+      <input name="_redirect" type="hidden" id="name" value={{"/thanks/" | absURL}}>
       <input name="_formsubmit_id" type="text" hidden>
       
       <div class="grid">
@@ -35,7 +35,7 @@
       
       <input type="submit">
       
-    </form>
+    </form> -->
   </div>
 </div>
 {{ end }}
