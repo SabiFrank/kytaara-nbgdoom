@@ -22,8 +22,9 @@ ShowBreadCrumbs: false
 06.12.2025 | Einlass: TBD | Beginn: TBD
 
 **Bands**  
-TBD &  
-Kytaara 
+[BRANDLAST](https://www.instagram.com/brandlast_doom/) &  
+Kytaara &
+TBD
 
 **Eintritt**  
 Abendkasse: TBD
