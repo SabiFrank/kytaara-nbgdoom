@@ -17,16 +17,16 @@ ShowBreadCrumbs: false
 [Coven Rites e.V. aus Nürnberg/Fürth](https://coven-rites.de/)  
 
 **Location**  
-[Kopf und Kragen, Fürth](https://www.kopfundkragen-club.de/), Theresienstr. 9, 90762 Fürth  
+[Kopf und Kragen](https://www.kopfundkragen-club.de/), Theresienstr. 9, 90762 Fürth  
 
 **Datum**  
-06.12.2025 | Einlass: 19:30 | Beginn: 20:00
+06.12.2025 | Einlass: 19:30 | Beginn: 20:00  
 
 **Bands**  
 [BRANDLAST](https://www.instagram.com/brandlast_doom/) &  
-Kytaara &
+Kytaara &  
 [SAUROS](https://www.instagram.com/sauros.doom)
 
 **Eintritt**  
-Abendkasse: 15€ 
+Abendkasse: 15€  
 Vorverkauf: 10€  
