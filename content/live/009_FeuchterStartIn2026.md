@@ -2,7 +2,7 @@
 title: "Kytaara im JUZ Feucht"
 date: "2026-02-28"
 publishdate: "2025-12-12"
-description: "Kytaara spielen sich an Nikolaus um Kopf&Kragen"
+description: "Im JUZ in Feucht wird es doomig"
 tags: ["feucht", "JUZ Feucht", "doom"]
 categories: ["live"]
 ShowRelated: false
