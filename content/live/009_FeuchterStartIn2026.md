@@ -11,6 +11,8 @@ ShowBreadCrumbs: false
 ---
 
 &nbsp;  
+{{< gallery-slider dir="/uploads/live9/" auto-slide="3000" width="80%" height="500px" >}}  
+
 **Veranstalter**  
 [JUZ Feucht](https://www.instagram.com/juzfeucht/?__d=11)  
 
