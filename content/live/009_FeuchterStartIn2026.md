@@ -29,5 +29,4 @@ Kytaara
 
 
 **Eintritt**  
-Abendkasse: TBD  
-Vorverkauf: TBD  
+Auf Spendenbasis  
