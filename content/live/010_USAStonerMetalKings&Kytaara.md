@@ -22,10 +22,10 @@ ShowBreadCrumbs: false
 04.06.2026 | Beginn: 20:00  
 
 **Bands**  
-Kytaara &
+Kytaara &  
 [Acid King](https://www.acidking.com/)  
 
 
-**Eintritt**
+**Eintritt**  
 Altersbeschränkung: ab 16 Jahre    
 [Tickets](https://www.tixforgigs.com/Event/69918)  
