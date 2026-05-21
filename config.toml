@@ -84,7 +84,7 @@ data-theme = "dark"
   aboutTitle = "Die Band"
   aboutDescription = "Metal made in Nuremberg."
   aboutImgUrl = "/uploads/band-private.webp"
-  aboutContent = "Wir sind eine junge Band aus Nürnberg, bestehend aus fünf Musiker*innen, die Einflüsse aus den Genres Stoner, Doom, Sludge, Core bis hin zum Blackmetal vereinen. Das Resultat ist eine stets breite Soundwand aus treibenden Riffs und sphärischen Klangteppichen. Markenzeichen ist der fein aufeinander abgestimmte Sound dreier Gitarren. Unentbehrliches Zentrum der Band sind aber die Bandbohnen, ohne die keine Probe stattfinden kann."
+  aboutContent = "Wir sind eine aufstrebende Band aus Nürnberg, bestehend aus sechs Musiker*innen, die Einflüsse aus den Genres Stoner, Doom, Sludge, Core bis hin zum Blackmetal vereinen. Das Resultat ist eine stets breite Soundwand aus treibenden Riffs und sphärischen Klangteppichen. Markenzeichen ist der fein aufeinander abgestimmte Sound dreier Gitarren. Unentbehrliches Zentrum der Band sind aber die Bandbohnen, ohne die keine Probe stattfinden kann."
   disableBlogSection = false
   blogTitle = "Live"
   blogDescription = "Auftritte von Kytaara"
@@ -92,7 +92,7 @@ data-theme = "dark"
 
   disablePortfolioSection = false
   portfolioTitle = "Musik"
-  portfolioDescription = "Hier werden bald unsere Songs zu finden sein. Stay tuned."
+  portfolioDescription = "Hier werden bald unsere Songs zu finden sein, das Albumrelease rückt in greifbare Nähe."
 
     [[params.homepage.portfolio]]
     imageUrl = "/uploads/base-shoot.webp"

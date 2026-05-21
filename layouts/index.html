@@ -111,18 +111,20 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
   <div class="container">
     <div class="grid grid-post" style="display: flex;   justify-content: center;"> <!-- ToDo: entferne style, wenn mehere da hinkommen -->
       {{ range .Site.Params.homepage.portfolio }}
-      <a class="portfolio-post"><!--href="{{.websiteUrl}}" Einsetzen in Tag, wenn Portfolio da ist-->
-        <figure>
-          <img
+      <!--  <a class="portfolio-post">href="{{.websiteUrl}}" Einsetzen in Tag, wenn Portfolio da ist-->
+        <!--<figure>-->
+          <!--<img
             src="{{.imageUrl}}"
             width="600"
             height="400"
             alt="{{.alt}}"
-          ><!-- layout="responsive" not allowed for img tags -->
-        </figure>
-        <!--  <hgroup class="text-center">
-          <h4>{{.description}}</h4>
-        </hgroup> ToDo einsetzen, wenn Musik da ist -->
+          <!--> <!--layout="responsive" not allowed for img tags -->
+        <!--</figure> -->
+
+        <hgroup class="text-center">
+          <h4>Conflicts</h4>
+          <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F967555506063142%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+        </hgroup> 
       </a>
       {{ end }}
     </div>
