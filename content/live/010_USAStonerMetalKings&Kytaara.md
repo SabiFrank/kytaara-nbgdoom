@@ -11,6 +11,7 @@ ShowBreadCrumbs: false
 ---
 
 &nbsp;  
+{{< gallery-slider dir="/uploads/live10/" auto-slide="3000" width="80%" height="500px" >}}  
 
 **Veranstalter**  
 [Z-Bau](https://z-bau.com/)  
@@ -24,7 +25,6 @@ ShowBreadCrumbs: false
 **Bands**  
 Kytaara &  
 [Acid King](https://www.acidking.com/)  
-
 
 **Eintritt**  
 Altersbeschränkung: ab 16 Jahre    
