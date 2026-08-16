@@ -64,4 +64,5 @@ Fotografie: [strongandcutephotography](https://www.instagram.com/strongandcuteph
 * 2024 Failed Exorcism
 * 2025 Gone  
 * 2026 Blind Society  
+* 2026 Album Conflicts
 

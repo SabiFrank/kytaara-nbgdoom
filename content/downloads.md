@@ -26,10 +26,56 @@ hier
 
 ## Band
 
-Downloade das Bandbild 
-{{< a href="/downloadables/bg-header.png" download="kytaara-band" >}}
+### Wide
+
+Downloade das Bandbild Basic
+{{< a href="/downloadables/kytaara_basic.jpg" download="kytaara-band-basic" >}}
 hier
 {{< /a >}}.  
+
+Downloade das Bandbild Wald
+{{< a href="/downloadables/kytaara_forest.jpg" download="kytaara-band-wald">}}
+hier
+{{< /a >}}.  
+
+Downloade das Bandbild Distel
+{{< a href="/downloadables/kytaara_distel.jpg" download="kytaara-band-distel">}}
+hier
+{{< /a >}}.  
+
+Downloade das Bandbild Kliff
+{{< a href="/downloadables/kytaara_cliff.jpg" download="kytaara-band-kliff">}}
+hier
+{{< /a >}}.  
+
+Downloade das Bandbild Hintergrund
+{{< a href="/downloadables/kytaara_background.jpg" download="kytaara-band-hintergrund">}}
+hier
+{{< /a >}}.  
+
+Downloade das originale Bandbild
+{{< a href="/downloadables/bg-header.png" download="kytaara-band-original" >}}
+hier
+{{< /a >}}.  
+
+### Socials
+
+Downloade das Bandbild Basic für Socials
+{{< a href="/downloadables/kytaara_basic_socials.jpg" download="kytaara-band-basic-socials">}}
+hier
+{{< /a >}}.  
+
+Downloade das Bandbild Hintergrund für Socials
+{{< a href="/downloadables/kytaara_background_socials.jpg" download="kytaara-band-hintergrund-socials">}}
+hier
+{{< /a >}}.  
+
+Downloade das Bandbild Distel für Socials
+{{< a href="/downloadables/kytaara_distel_socials.jpg" download="kytaara-band-distel-socials">}}
+hier
+{{< /a >}}.  
+
+
 
 ## TecRider
 

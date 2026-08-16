@@ -91,12 +91,12 @@ data-theme = "dark"
   seeMoreText = "Alle Auftritte" #ToDo: Aktivieren, wenn mehr als 6
 
   disablePortfolioSection = false
-  portfolioTitle = "Musik"
-  portfolioDescription = "Unser erstes Album ist auf dem Weg."
+  portfolioTitle = "Conflicts - out now"
+  portfolioDescription = "Unser erstes Album ist da, höre jetzt auf allen bekannten Streamingplattformen rein!"
 
-    [[params.homepage.portfolio]]
-    imageUrl = "/uploads/base-shoot.webp"
-    description = "Moritz am Bass"
+    #[[params.homepage.portfolio]]
+    #imageUrl = "/uploads/conflicts.webp"
+    #description = "Album Conflicts"
 
     #[[params.homepage.portfolio]]
     #imageUrl = "/uploads/base-shoot.webp"
