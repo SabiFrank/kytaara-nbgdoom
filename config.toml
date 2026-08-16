@@ -94,9 +94,9 @@ data-theme = "dark"
   portfolioTitle = "Conflicts - out now"
   portfolioDescription = "Unser erstes Album ist da, höre jetzt auf allen bekannten Streamingplattformen rein!"
 
-    #[[params.homepage.portfolio]]
-    #imageUrl = "/uploads/conflicts.webp"
-    #description = "Album Conflicts"
+    [[params.homepage.portfolio]]
+    imageUrl = "/uploads/conflicts.webp"
+    description = "Album Conflicts"
 
     #[[params.homepage.portfolio]]
     #imageUrl = "/uploads/base-shoot.webp"
