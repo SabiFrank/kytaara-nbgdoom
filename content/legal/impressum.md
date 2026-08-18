@@ -9,12 +9,11 @@ url: /legal/impressum
 ---
 
 **Kytaara - NBG Doom**  
-Verwalter: Sabrina Frank  
-Carl-Legien-Straße 18  
-90473 Nürnberg
+Verwalter: Sabrina Horch  
+Klingenfeldstraße 11  
+90453 Nürnberg
 
-**Kontakt**  
-Telefon: +49 (0) 1520 3311192  
+**Kontakt**   
 E-Mail: kytaara@gmail.com
 
 **Quelle:**  
@@ -22,4 +21,4 @@ E-Mail: kytaara@gmail.com
 
 **Urheberrecht Medien**
 
-© 2024 Kytaara – Alle Inhalte dieser Website, insbesondere Texte, Fotografien, Grafiken und Musik sind urheberrechtlich geschützt. Alle Rechte, einschließlich der Vervielfältigung, Veröffentlichung, Bearbeitung und Übersetzung, bleiben Kytaara vorbehalten. 
+© 2026 Kytaara – Alle Inhalte dieser Website, insbesondere Texte, Fotografien, Grafiken und Musik sind urheberrechtlich geschützt. Alle Rechte, einschließlich der Vervielfältigung, Veröffentlichung, Bearbeitung und Übersetzung, bleiben Kytaara vorbehalten. 

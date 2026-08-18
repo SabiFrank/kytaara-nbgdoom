@@ -6,7 +6,7 @@ title = "Metal-Livemusik aus Nürnberg - Kytaara - Doom & Stoner Band"
 ignoreErrors = ["error-remote-getjson"]
 
 paginate = "3"
-copyright = 'A template by [Heksagon](https://github.com/heksagonnet "Your most friendly developer"); edited by [Sabrina Frank](https://github.com/SabiFrank/)'
+copyright = 'A template by [Heksagon](https://github.com/heksagonnet "Your most friendly developer"); edited by [Sabrina Horch](https://github.com/SabiFrank/)'
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
@@ -30,8 +30,8 @@ keepWhitespace = false
 
 [params]
 env = "production"
-author = "Sabrina Frank"
-description = "Kytaara ist eine junge Band aus Nürnberg, die Einflüsse aus den Genres Stoner, Doom und Core mit treibenden Riffs und spährischen Klangteppichen vereint."
+author = "Sabrina Horch"
+description = "Kytaara ist eine etablierte Lokalband aus Nürnberg, die Einflüsse aus den Genres Stoner, Doom und Core mit treibenden Riffs und spährischen Klangteppichen vereint."
 math = false
 images = [ "/uploads/og.webp" ]
 comments = false
@@ -176,8 +176,3 @@ weight = "60"
 #url = "/musik"
 #weight = "10"
 
-#[[menus.search]]
-#name = "Auftritte"
-#title = "Auftritte"
-#url = "/live"
-#weight = "20"
