@@ -14,7 +14,7 @@ Sechs Leute machen diese Band aus: Unsere Sänger und Gitarristen Philipp und Ma
 
 {{< gallery-slider dir="/uploads/bio/band/" auto-slide="3000" width="80%" height="350px" >}}  
 
-Fotografie: Mareta, [oliversura](https://www.instagram.com/oliversura?igsh=MTRlZ3h5MHFsdGF2Nw==) 
+Fotografie: [oliversura](https://www.instagram.com/oliversura?igsh=MTRlZ3h5MHFsdGF2Nw==), Mareta  
 &nbsp;  
 
 Zusammengefunden haben wir uns erstmals 2019 in Lauf a.d. Pegnitz, damals noch mit Lorenz an den Drums. 
