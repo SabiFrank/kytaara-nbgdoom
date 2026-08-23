@@ -46,7 +46,8 @@ alt="Theresa | Drums"
 title="Theresa | Drums" >}}  
 
 Fotografie: Mareta  
-
+  
+  
 {{< portrait src="/uploads/bio/Sabi.webp"
 alt="Sabrina | Gesang" 
 title="Sabrina | Gesang" >}}  
@@ -58,7 +59,7 @@ Fotografie: [strongandcutephotography](https://www.instagram.com/strongandcuteph
 ### Diskografie
 
 <details>
-2019<summary>Sweet Smells the Rotten Flesh</summary>
+<summary>Sweet Smells the Rotten Flesh</summary>
 
 Down in the dusty landscapes
 In the Middle East
