@@ -44,14 +44,12 @@ title="Moritz | Bass & Vocals">}}
 {{< portrait src="/uploads/bio/Tessi.webp"
 alt="Theresa | Drums" 
 title="Theresa | Drums" >}}  
-
 Fotografie: Mareta  
   
   
 {{< portrait src="/uploads/bio/Sabi.webp"
 alt="Sabrina | Gesang" 
-title="Sabrina | Gesang" >}}  
-
+title="Sabrina | Vocals" >}}  
 Fotografie: [strongandcutephotography](https://www.instagram.com/strongandcutephotography/)  
 
 
@@ -59,239 +57,239 @@ Fotografie: [strongandcutephotography](https://www.instagram.com/strongandcuteph
 ### Diskografie
 
 {{< details title="2019 Sweet Smells the Rotten Flesh" >}}
-Down in the dusty landscapes
-In the Middle East
-Far away from home
+Down in the dusty landscapes  
+In the Middle East  
+Far away from home  
 To fight enemies I don’t hate  
 
-Brothers giving fire like hell
-I count the bullets I still have
-The only insurance I got
+Brothers giving fire like hell  
+I count the bullets I still have  
+The only insurance I got  
 Here in no man’s land  
 
-In the heat of fight
-An angel touched ground
-Hell was burning in my eyes
+In the heat of fight  
+An angel touched ground  
+Hell was burning in my eyes  
 Already seen too much  
 
-The heaven was under fire
-Too mad to talk about
-A victim in its mother’s tomb
+The heaven was under fire  
+Too mad to talk about  
+A victim in its mother’s tomb  
 Killed by enemies I don’t hate  
 
-This war took everybody’s grace
-Even the angels don’t care
-This war took everybody’s grace
+This war took everybody’s grace  
+Even the angels don’t care  
+This war took everybody’s grace  
 Even the angels don’t care  
 {{< /details >}}  
 
 
 {{< details title="2019 Death Mask" >}}
-Don’t break under the spell
-Don’t let the enemy dwell
-Kill them so blood is to smell
+Don’t break under the spell  
+Don’t let the enemy dwell  
+Kill them so blood is to smell  
 Wash it all away in the well  
 
-When the time has come
+When the time has come  
 Put the mask on  
 
-Make them a bloody bath
-Let it be filled with your wrath
-And the ones who could flee
+Make them a bloody bath  
+Let it be filled with your wrath  
+And the ones who could flee  
 Count the days, they’ll feel free  
 
-When the time has come
+When the time has come  
 Put the mask on  
 
-Light falls through two simple holes in my eyes
-All the dreams that I ever had are gone now
+Light falls through two simple holes in my eyes  
+All the dreams that I ever had are gone now  
 My knife is blinding you forever  
 {{< /details >}}  
 
 
 {{< details title="2020 Apogaeum" >}}
-All the world ablaze
-Flying high not watching
-Set my mind to erase
+All the world ablaze  
+Flying high not watching  
+Set my mind to erase  
 Never care for what’s below  
 
-This is a different phase
-Off to spheres without connection
-I find myself in space
+This is a different phase  
+Off to spheres without connection  
+I find myself in space  
 Astray between the times  
 
-I’m not a single case
+I’m not a single case  
 A wish that wasn’t mine  
 
-Looking for a trace
-In emptiness surrounding
-Take a step outside the maze
+Looking for a trace  
+In emptiness surrounding  
+Take a step outside the maze  
 Give me peace inside  
 
-Already on another star
-So far from what is real
-I’m mad but without reason
+Already on another star  
+So far from what is real  
+I’m mad but without reason  
 Meaningless and unseen  
 
-Down to earth again
-After all my flights so far
-Drag my feet to soil
+Down to earth again  
+After all my flights so far  
+Drag my feet to soil  
 Avoid to care for what’s around  
 
-My life’s about consumption
-In need for lonely space
-Tearing up my life
+My life’s about consumption  
+In need for lonely space  
+Tearing up my life  
 But no one even cares  
 
-A wish that wasn’t mine
+A wish that wasn’t mine  
 I’m nothing without haze  
 {{< /details >}}  
 
 
 {{< details title="2020 Grief" >}}
-You knew the road to well for the men you are
-Stepping up from Rome to take the people‘s land
-You bring the lightning, but we raise thunder
+You knew the road to well for the men you are  
+Stepping up from Rome to take the people‘s land  
+You bring the lightning, but we raise thunder  
 Varus and Arminius are calling for the march  
 
-Burn in fire of unknown gods
-	We are legion we are strong
-Feel the heat of northern rage
-	If you kill one two more will come
-Hear the swords behind the trees
-	Arrows soar down to darken your sun
-Come to grief in the face of our shields
+Burn in fire of unknown gods  
+	We are legion we are strong  
+Feel the heat of northern rage  
+	If you kill one two more will come  
+Hear the swords behind the trees  
+	Arrows soar down to darken your sun  
+Come to grief in the face of our shields  
 	Halo of victory fades in these lands  
 
-Your final fate defined in forests you don’t know
-Conquered man by man unable to arrange
-Meaningless majority scattered and crushed
+Your final fate defined in forests you don’t know  
+Conquered man by man unable to arrange  
+Meaningless majority scattered and crushed  
 An emperor defeated when Mars meets Tyr  
 {{< /details >}}  
 
 
 {{< details title="2021 Lust" >}}
-All the pills I swallowed
-And the steps I took
-Couldn’t save me
+All the pills I swallowed  
+And the steps I took  
+Couldn’t save me  
 Save me from myself  
 
-Bleak soul so worn
+Bleak soul so worn  
 Free fate so bound  
 
-All the rules I followed
-My thoughts disarrayed
-They won’t lead me
+All the rules I followed  
+My thoughts disarrayed  
+They won’t lead me  
 Lead me to no end  
 
-Bleak soul so worn
+Bleak soul so worn  
 Numb mind so lost  
 
-Lust has
-Crushed my soul
-Lust will
+Lust has  
+Crushed my soul  
+Lust will  
 Antecede  
 
-Call me evil, call me saint
-Riven mind against itself
-At all times the strain of man
+Call me evil, call me saint  
+Riven mind against itself  
+At all times the strain of man  
 Source of joy and root of hate  
 
-Call me evil, call me saint
-Let it out or bear it down
-From the deeps it’s creeping up
+Call me evil, call me saint  
+Let it out or bear it down  
+From the deeps it’s creeping up  
 The master of all life  
 {{< /details >}}  
 
 
 {{< details title="2022 Toxic Dust" >}}
-Oh he comes from the town
-Where the dust never lays
-Earth’s air changed, radiation
+Oh he comes from the town  
+Where the dust never lays  
+Earth’s air changed, radiation  
 First they die, then we will  
 
-Hear his tales, tales of fear
-Caused by greed of our leaders
-Never learn from the past
+Hear his tales, tales of fear  
+Caused by greed of our leaders  
+Never learn from the past  
 Carry on, death and doom  
 
-Now I’ve become
+Now I’ve become  
 Death  
 {{< /details >}}  
 
 
 {{< details title="2024 Failed Exorcism" >}}
-Candlelight
-Flaring eyes
-Hands in ropes
+Candlelight  
+Flaring eyes  
+Hands in ropes  
 Tied down to the bed  
 
-Eerie sings
-All has changed
-Since the night
-When the lights went out
+Eerie sings  
+All has changed  
+Since the night  
+When the lights went out  
 You are possessed  
 
-Cross held high
-By the priest
-Pray and hope
+Cross held high  
+By the priest  
+Pray and hope  
 For the innocent  
 
-Devils grip
-Holding strong
-Cast him out
-Though a tempest comes
+Devils grip  
+Holding strong  
+Cast him out  
+Though a tempest comes  
 We will not bow  
 
-Lord have mercy
-Save my child
-Send an angel
-I beg for nothing else
-All you grace
-Let it shine
-What have we done
+Lord have mercy  
+Save my child  
+Send an angel  
+I beg for nothing else  
+All you grace  
+Let it shine  
+What have we done  
 To test our faith like this  
 
-What I got, I won’t let go
-This soul is mine
+What I got, I won’t let go  
+This soul is mine  
 You can keep what’s left  
 
-See the body levitate
-Breaking glass and wicked screams
-Throw the sinners to the wall
-Shove the cross into their throats
-Flames burst out to burn the skin
-Welcome to the grave
-In the end I’ve got you all
+See the body levitate  
+Breaking glass and wicked screams  
+Throw the sinners to the wall  
+Shove the cross into their throats  
+Flames burst out to burn the skin  
+Welcome to the grave  
+In the end I’ve got you all  
 Blood! Fire! Death!  
 {{< /details >}}  
 
 
 {{< details title="2025 Gone" >}}
-All exhausting roads so far
-Proud though bloody knees
-Every wound so meaningless
+All exhausting roads so far  
+Proud though bloody knees  
+Every wound so meaningless  
 Look ahead to leave behind  
 
-Footsteps in wet sand
-Covered by cold tides
-The darkening sky shrouds rising waves
+Footsteps in wet sand  
+Covered by cold tides  
+The darkening sky shrouds rising waves  
 Through the veil you hear me cry  
 
-Don't follow me
-Repent too much, repent too less
-Sorrow clouds my tired eyes
+Don't follow me  
+Repent too much, repent too less  
+Sorrow clouds my tired eyes  
 Searching for relief  
 
-Another tear drains to the sea
+Another tear drains to the sea  
 Never follow me  
 
-Memories disappear
-With no one by my side
-Ways will part as time goes by
+Memories disappear  
+With no one by my side  
+Ways will part as time goes by  
 The light will guide me home  
 {{< /details >}}  
 
 
 * 2026 Blind Society  
-* 2026 Album Conflicts
+* 2026 Album Conflicts  
