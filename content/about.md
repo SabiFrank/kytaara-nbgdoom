@@ -67,7 +67,7 @@ Fotografie: [strongandcutephotography](https://www.instagram.com/strongandcuteph
 * 2026 Blind Society  
 * 2026 Album Conflicts
 
-{{< details >}}
+{{< details title="SSTRF" >}}
 Collapsed text
 {{< /details >}}  
 
