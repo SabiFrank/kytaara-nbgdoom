@@ -1,0 +1,6 @@
+<details {{ if .Get "open" }}open{{ end }}>
+<summary>{{ .Get "summary" | default "Lyrics" }}</summary>
+
+{{ .Inner | markdownify }}
+
+</details>

@@ -67,3 +67,30 @@ Fotografie: [strongandcutephotography](https://www.instagram.com/strongandcuteph
 * 2026 Blind Society  
 * 2026 Album Conflicts
 
+{{</* details summary="Sweet Smells the Rotten Flesh" */>}}
+Down in the dusty landscapes
+In the Middle East
+Far away from home
+To fight enemies I don’t hate
+
+Brothers giving fire like hell
+I count the bullets I still have
+The only insurance I got
+Here in no man’s land
+
+In the heat of fight
+An angel touched ground
+Hell was burning in my eyes
+Already seen too much
+
+The heaven was under fire
+Too mad to talk about
+A victim in its mother’s tomb
+Killed by enemies I don’t hate
+
+This war took everybody’s grace
+Even the angels don’t care
+This war took everybody’s grace
+Even the angels don’t care  
+
+{{</* /details */>}}
