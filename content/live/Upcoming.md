@@ -1,6 +1,6 @@
 ---
 title: "Upcoming"
-date: "2026-06-06"
+date: ""
 publishdate: "2026-08-12"
 description: "Hier werden bald mehr Auftritte zu finden sein"
 categories: ["live"]
