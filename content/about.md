@@ -224,7 +224,7 @@ Flaring eyes
 Hands in ropes  
 Tied down to the bed  
 
-Eerie sings  
+Eerie signs  
 All has changed  
 Since the night  
 When the lights went out  

@@ -9,15 +9,3 @@ showToc: false
 ShowBreadCrumbs: false
 ---
 
-&nbsp;  
-**Veranstalter**  
-TBD
-
-**Location**  
-TBD
-
-**Datum**  
-TBD 
-
-**Bands**  
-Kytaara, TBD
