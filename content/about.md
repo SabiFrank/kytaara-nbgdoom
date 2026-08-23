@@ -67,10 +67,3 @@ Fotografie: [strongandcutephotography](https://www.instagram.com/strongandcuteph
 * 2026 Blind Society  
 * 2026 Album Conflicts
 
-{{</* details summary="Klicken zum Aufklappen" */>}}
-Hier steht der versteckte Inhalt.
-
-- Auch Listen
-- funktionieren
-
-{{</* /details */>}}  
