@@ -1,7 +1,7 @@
 ---
 title: "Upcoming"
 date: ""
-publishdate: "2026-08-12"
+publishdate: "2026-12-12"
 description: "Hier werden bald mehr Auftritte zu finden sein"
 categories: ["live"]
 ShowRelated: false
