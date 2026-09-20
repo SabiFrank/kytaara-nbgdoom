@@ -10,6 +10,8 @@ showToc: false
 ShowBreadCrumbs: false
 ---
 
+&nbsp;  
+
 **Veranstalter**  
 [Kulturschule Göß](https://www.instagram.com/kulturschule_goessmannsreuth/) 
 
